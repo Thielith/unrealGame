@@ -6399,3 +6399,15 @@ LogInit: Object subsystem initialized
 [2019.01.16-19.38.08:494][724]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Character/Enemy/Slime/slime]
 [2019.01.16-19.38.09:200][724]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/slime_Auto9F51F2D1A443813728201F4BE665C8198.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Character/Enemy/Slime/slime_Auto9.uasset'
 [2019.01.16-19.38.09:207][724]LogFileHelpers: Auto-saving content packages took 0.718
+[2019.01.16-19.52.05:963][875]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.01.16-19.52.30:953][239]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.16-19.52.43:222][336]LogSlate: Window 'Color Picker' being destroyed
+[2019.01.16-19.53.36:367][680]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/2DSideScrollerExampleMap_Auto01A76CA934E1988989FDD1292CCDED543.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto0.umap'
+[2019.01.16-19.53.36:384][680]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.971
+[2019.01.16-19.53.36:384][680]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.971
+[2019.01.16-19.53.36:395][680]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Character/Enemy/Slime/slime] ([1] browsable assets)...
+[2019.01.16-19.53.36:395][680]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Character/Enemy/Slime/slime]
+[2019.01.16-19.53.37:153][680]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/slime_Auto0A209CA5B4A03A0BD5E524BB404B87E90.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Character/Enemy/Slime/slime_Auto0.uasset'
+[2019.01.16-19.53.37:164][680]LogFileHelpers: Auto-saving content packages took 0.776
+[2019.01.16-19.53.49:688][747]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/2DSideScrollerExampleMapB040AB9645F4EB687EB54399D62447DB.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.01.16-19.53.50:005][747]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 1.275
