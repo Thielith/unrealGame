@@ -1,0 +1,1510 @@
+﻿Log file open, 03/07/19 08:35:37
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Game_2D
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.228954
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.570s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD A8-4500M APU with Radeon(tm) HD Graphics   , GPU: AMD Radeon HD 7640G
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.07-16.35.39:518][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.07-16.35.39:519][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.07-16.35.39:572][  0]LogHAL: Display: Platform has ~ 8 GB [8021880832 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.07-16.35.39:573][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.07-16.35.39:573][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.07-16.35.39:583][  0]LogInit: Computer: DESKTOP-LN9HFSU
+[2019.03.07-16.35.39:583][  0]LogInit: User: ayden
+[2019.03.07-16.35.39:583][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.07-16.35.39:583][  0]LogInit: High frequency timer resolution =1.852008 MHz
+[2019.03.07-16.35.39:584][  0]LogMemory: Memory total: Physical=7.5GB (8GB approx)
+[2019.03.07-16.35.39:584][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.07-16.35.39:584][  0]LogMemory: Process Physical Memory: 100.74 MB used, 100.74 MB peak
+[2019.03.07-16.35.39:584][  0]LogMemory: Process Virtual Memory: 84.30 MB used, 84.30 MB peak
+[2019.03.07-16.35.39:584][  0]LogMemory: Physical Memory: 3403.37 MB used,  4246.89 MB free, 7650.26 MB total
+[2019.03.07-16.35.39:584][  0]LogMemory: Virtual Memory: 4625.41 MB used,  4246.89 MB free, 134217728.00 MB total
+[2019.03.07-16.35.39:792][  0]LogInit: Using OS detected language (en-US).
+[2019.03.07-16.35.39:793][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.07-16.35.39:797][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.07-16.35.40:821][  0]LogStreaming: Display: Took  1.028s to InitEngineTextLocalization.
+[2019.03.07-16.35.40:822][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.07-16.35.41:058][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.07-16.35.41:058][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.07-16.35.46:072][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.07-16.35.46:072][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.07-16.35.46:102][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7640G' (Feature Level 11_0)
+[2019.03.07-16.35.46:102][  0]LogD3D11RHI:       479/0/3584 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2019.03.07-16.35.46:108][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.07-16.35.46:108][  0]LogD3D11RHI:       0/0/3825 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.07-16.35.46:108][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.07-16.35.46:123][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.07-16.35.46:123][  0]LogD3D11RHI:     GPU DeviceId: 0x9903 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.07-16.35.46:124][  0]LogWindows: EnumDisplayDevices:
+[2019.03.07-16.35.46:124][  0]LogWindows:    0. 'AMD Radeon HD 7640G' (P:1 D:1)
+[2019.03.07-16.35.46:126][  0]LogWindows:    1. 'AMD Radeon HD 7640G' (P:0 D:1)
+[2019.03.07-16.35.46:127][  0]LogWindows:    2. 'AMD Radeon HD 7640G' (P:0 D:0)
+[2019.03.07-16.35.46:129][  0]LogWindows:    3. 'AMD Radeon HD 7640G' (P:0 D:0)
+[2019.03.07-16.35.46:130][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.03.07-16.35.46:130][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7640G
+[2019.03.07-16.35.46:130][  0]LogD3D11RHI:   Driver Version: 15.200.1055.0 (internal:15.200.1055.0, unified:15.200.1055.0)
+[2019.03.07-16.35.46:130][  0]LogD3D11RHI:      Driver Date: 7-6-2015
+[2019.03.07-16.35.46:130][  0]LogRHI: Texture pool is 335 MB (70% of 479 MB)
+[2019.03.07-16.35.46:214][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2019.03.07-16.35.46:239][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.07-16.35.46:282][  0]LogD3D11RHI: GPU Timing Frequency: 50.000000 (Debug: 2 1)
+[2019.03.07-16.35.46:289][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Intermediate/Shaders/WorkingDirectory/13844/).
+[2019.03.07-16.35.46:290][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ayden/AppData/Local/Temp/UnrealShaderWorkingDir/A44CF1414681E68BF053C8BB474BDE0D/'.
+[2019.03.07-16.35.47:439][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.07-16.35.47:484][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.07-16.35.47:534][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.07-16.35.47:587][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.07-16.35.47:643][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.07-16.35.47:695][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.07-16.35.47:747][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.07-16.35.47:795][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.07-16.35.47:819][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:132][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.07-16.35.48:140][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.07-16.35.48:293][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.07-16.35.48:293][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.07-16.35.48:386][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.07-16.35.48:386][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.07-16.35.48:434][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.07-16.35.48:485][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.07-16.35.48:540][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.07-16.35.48:607][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.07-16.35.48:646][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.07-16.35.48:646][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.07-16.35.48:930][  0]LogXGEController: Cleaning working directory: C:/Users/ayden/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.07-16.35.48:930][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.07-16.35.48:931][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.07-16.35.48:931][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.07-16.35.54:221][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.07-16.35.54:700][  0]LogDerivedDataCache: Loaded boot cache 0.48s 71MB C:/Users/ayden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.07-16.35.54:701][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ayden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.07-16.35.54:701][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.07-16.35.54:701][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.07-16.35.54:702][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.07-16.35.54:702][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.07-16.35.54:747][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.07-16.35.54:764][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ayden/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.07-16.35.54:764][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.07-16.35.54:764][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.07-16.35.54:819][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.07-16.35.54:830][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.07-16.35.54:857][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.07-16.35.56:052][  0]LogAssetRegistry: FAssetRegistry took 0.0428 seconds to start up
+[2019.03.07-16.35.57:386][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.07-16.35.57:966][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.07-16.35.58:004][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.07-16.35.58:004][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.07-16.35.58:006][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.07-16.35.58:006][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.07-16.35.58:107][  0]LogNetVersion: Game_2D 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1840425873)
+[2019.03.07-16.36.00:332][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.503734 seconds
+[2019.03.07-16.36.00:359][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.03.07-16.36.00:359][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.03.07-16.36.00:359][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.07-16.36.16:254][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.07-16.36.16:278][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.07-16.36.17:007][  0]SourceControl: Source control is disabled
+[2019.03.07-16.36.17:008][  0]SourceControl: Source control is disabled
+[2019.03.07-16.36.17:027][  0]SourceControl: Source control is disabled
+[2019.03.07-16.36.17:037][  0]SourceControl: Source control is disabled
+[2019.03.07-16.36.17:669][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.07-16.36.17:802][  0]LogOcInput: OculusInput pre-init called
+[2019.03.07-16.36.18:087][  0]LogEngine: Initializing Engine...
+[2019.03.07-16.36.18:100][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.07-16.36.18:112][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2019.03.07-16.36.18:112][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.07-16.36.18:113][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.001 s
+[2019.03.07-16.36.18:113][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.07-16.36.18:759][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.07-16.36.18:905][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.07-16.36.18:973][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.07-16.36.19:009][  0]LogInit: FAudioDevice initialized.
+[2019.03.07-16.36.19:010][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.07-16.36.19:184][  0]LogDerivedDataCache: Saved boot cache 0.17s 71MB C:/Users/ayden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.07-16.36.19:184][  0]LogInit: Texture streaming: Enabled
+[2019.03.07-16.36.19:255][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.07-16.36.19:335][  0]LogInit: Transaction tracking system initialized
+[2019.03.07-16.36.19:466][  0]BlueprintLog: New page: Editor Load
+[2019.03.07-16.36.19:936][  0]LocalizationService: Localization service is disabled
+[2019.03.07-16.36.21:491][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.07-16.36.21:491][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.07-16.36.21:492][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.07-16.36.21:492][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.07-16.36.21:492][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.07-16.36.21:493][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.07-16.36.21:493][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.07-16.36.22:339][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayden/Documents/Unreal Projects/MyProject/Content/' took 0.03s
+[2019.03.07-16.36.22:386][  0]SourceControl: Source control is disabled
+[2019.03.07-16.36.22:389][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.07-16.36.22:392][  0]LightingResults: New page: Lighting Build
+[2019.03.07-16.36.22:425][  0]MapCheck: New page: Map Check
+[2019.03.07-16.36.22:425][  0]LightingResults: New page: Lighting Build
+[2019.03.07-16.36.25:953][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.03.07-16.36.26:023][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.07-16.36.26:154][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.07-16.36.26:450][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 295.467ms to complete.
+[2019.03.07-16.36.26:451][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 4.064
+[2019.03.07-16.36.26:884][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-16.36.26:908][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-16.36.26:930][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-16.36.26:953][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-16.36.27:001][  0]LogCollectionManager: Loaded 0 collections in 0.005246 seconds
+[2019.03.07-16.36.27:113][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayden/Documents/Unreal Projects/MyProject/Saved/Collections/' took 0.01s
+[2019.03.07-16.36.27:114][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayden/Documents/Unreal Projects/MyProject/Content/Developers/ayden/Collections/' took 0.01s
+[2019.03.07-16.36.27:114][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayden/Documents/Unreal Projects/MyProject/Content/Collections/' took 0.01s
+[2019.03.07-16.36.27:114][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.07-16.36.27:149][  0]LogContentBrowser: Native class hierarchy populated in 0.0310 seconds. Added 2572 classes and 603 folders.
+[2019.03.07-16.36.27:181][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2019.03.07-16.36.27:930][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2019.03.07-16.36.27:957][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2019.03.07-16.36.28:388][  0]LogSlate: Took 0.013846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.07-16.36.28:403][  0]LogSlate: Took 0.006303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.07-16.36.28:435][  0]LogSlate: Took 0.008981 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.07-16.36.28:732][  0]LogRenderer: Reallocating scene render targets to support 952x484 Format 9 NumSamples 1 (Frame:1).
+[2019.03.07-16.36.29:521][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.03.07-16.36.29:521][  0]LogLoad: (Engine Initialization) Total time: 58.84 seconds
+[2019.03.07-16.36.29:521][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.07-16.36.29:614][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.03.07-16.36.29:687][  0]LogSlate: Took 0.003413 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.07-16.36.30:263][  5]LogAssetRegistry: Asset discovery search completed in 34.2360 seconds
+[2019.03.07-16.36.30:272][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.07-16.36.30:272][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000157 seconds (updated 0 objects)
+[2019.03.07-16.36.30:665][ 16]LogSlate: Took 0.000524 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.07-16.36.44:247][424]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-16.36.44:427][427]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Player.Player
+[2019.03.07-16.36.46:297][427]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0021 seconds. Added 116 classes and 0 folders.
+[2019.03.07-16.36.49:041][427]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Maps/mainInstance.mainInstance
+[2019.03.07-16.36.49:978][427]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/functions.functions
+[2019.03.07-16.36.50:914][427]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Character/Enemy/Slime/slime.slime
+[2019.03.07-16.36.51:932][427]LogLinker: Warning: Can't resolve asset name
+[2019.03.07-16.36.51:977][427]LogSlate: Took 0.003821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.07-16.36.54:178][428]LogSlate: Took 0.003620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.07-17.19.06:701][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.19.06:802][422]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.07-17.19.07:061][422]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.03.07-17.19.07:067][422]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.07-17.19.07:107][422]PIE: New page: PIE session: 2DSideScrollerExampleMap (Mar 7, 2019, 1:19:07 AM)
+[2019.03.07-17.19.07:111][422]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.03.07-17.19.07:158][422]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045082s)
+[2019.03.07-17.19.07:161][422]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.03.07-17.19.07:163][422]LogPlayLevel: PIE: World Init took: (0.004909s)
+[2019.03.07-17.19.07:163][422]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.052545s)
+[2019.03.07-17.19.07:687][422]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.07-17.19.07:719][422]LogInit: FAudioDevice initialized.
+[2019.03.07-17.19.07:761][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-17.19.07:970][422]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-17.19.08:025][422]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.03.07-09.19.08
+[2019.03.07-17.19.08:050][422]LogWorld: Bringing up level for play took: 0.059096
+[2019.03.07-17.19.08:114][422]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0029 seconds. Added 10 classes and 0 folders.
+[2019.03.07-17.19.08:215][422]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 1.675
+[2019.03.07-17.19.08:220][422]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.03.07-17.19.08:408][422]LogRenderer: Reallocating scene render targets to support 1292x756 Format 9 NumSamples 1 (Frame:1).
+[2019.03.07-17.20.38:552][903]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.03.07-17.20.38:556][903]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-17.20.38:636][903]LogSlate: Window 'Game_2D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.07-17.20.38:936][903]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.07-17.20.38:937][903]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.03.07-17.20.41:499][904]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.03.07-17.20.50:856][ 59]LogEditorViewport: Clicking on Actor (LMB): PaperGroupedSpriteActor (PaperGroupedSpriteActor2)
+[2019.03.07-17.20.52:550][ 67]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_Sprite4)
+[2019.03.07-17.20.56:117][119]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-17.22.39:433][440]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/2DSideScrollerExampleMap_Auto12659D03D43F5A9416BBD059C4B6F2A9E.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto1.umap'
+[2019.03.07-17.22.39:458][440]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 1.498
+[2019.03.07-17.22.39:459][440]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.498
+[2019.03.07-17.25.55:090][515]LogEditorViewport: Clicking Background
+[2019.03.07-17.26.02:301][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.26.02:595][638]LogD3D11RHI: Error: agsDriverExtensionsDX11_SetDepthBounds(1,0.000000, 1.000000) returned error code 6. **********PLEASE UPDATE YOUR VIDEO DRIVERS*********
+[2019.03.07-17.26.11:816][776]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.26.26:428][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.26.35:102][156]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-17.27.19:379][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.27.25:288][915]Cmd: DELETE
+[2019.03.07-17.27.25:289][915]Cmd: ACTOR DELETE
+[2019.03.07-17.27.25:326][915]LogEditorActor: Deleted Actor: PointLight
+[2019.03.07-17.27.25:464][915]LogEditorActor: Deleted 1 Actors (0.162 secs)
+[2019.03.07-17.27.27:135][944]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.27.29:590][979]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.27.37:166][ 93]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.27.59:311][420]LogEditorViewport: Clicking Background
+[2019.03.07-17.28.28:688][621]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2019.03.07-17.28.32:980][686]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.32.40:928][929]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/2DSideScrollerExampleMap_Auto2D4A31EDC430C9285C7C5FAB2E96162F2.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_Auto2.umap'
+[2019.03.07-17.32.40:943][929]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 1.213
+[2019.03.07-17.32.40:943][929]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.213
+[2019.03.07-17.34.48:743][238]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.03.07-17.34.52:450][297]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.34.55:065][344]LogEditorActor: Deleted Actor: PointLight
+[2019.03.07-17.34.55:176][344]LogEditorActor: Deleted 1 Actors (0.122 secs)
+[2019.03.07-17.35.07:617][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.35.14:970][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.35.17:940][720]Cmd: DELETE
+[2019.03.07-17.35.17:940][720]Cmd: ACTOR DELETE
+[2019.03.07-17.35.17:950][720]LogEditorActor: Deleted Actor: SkyLight
+[2019.03.07-17.35.18:073][720]LogEditorActor: Deleted 1 Actors (0.132 secs)
+[2019.03.07-17.35.30:493][933]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_Sprite)
+[2019.03.07-17.35.32:712][967]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.03.07-17.35.34:019][986]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.35.52:431][285]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.35.57:643][365]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.36.06:127][498]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.36.36:279][984]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.36.46:004][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.37.05:917][496]Cmd: DELETE
+[2019.03.07-17.37.05:917][496]Cmd: ACTOR DELETE
+[2019.03.07-17.37.05:930][496]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.03.07-17.37.06:064][496]LogEditorActor: Deleted 1 Actors (0.147 secs)
+[2019.03.07-17.37.09:153][551]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.37.16:925][694]LogAIModule: Creating AISystem for world combat_generic_plains
+[2019.03.07-17.37.16:939][694]LogAssetEditorManager: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains
+[2019.03.07-17.37.18:278][694]LogSlate: Window 'Save Content' being destroyed
+[2019.03.07-17.37.22:210][694]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/2DSideScrollerExampleMapCDC0BDE84935A4EE08D8019DE58FDBDA.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.03.07-17.37.22:311][694]LogFileHelpers: Saving map '2DSideScrollerExampleMap' took 4.016
+[2019.03.07-17.37.22:315][694]Cmd: MAP LOAD FILE="../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/Maps/combat_generic_plains.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.07-17.37.22:315][694]LightingResults: New page: Lighting Build
+[2019.03.07-17.37.22:317][694]LoadErrors: New page: Loading map: combat_generic_plains.umap
+[2019.03.07-17.37.22:321][694]MapCheck: New page: Map Check
+[2019.03.07-17.37.22:321][694]LightingResults: New page: Lighting Build
+[2019.03.07-17.37.22:822][694]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.07-17.37.23:059][694]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.07-17.37.23:384][694]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 324.837ms to complete.
+[2019.03.07-17.37.23:386][694]LogFileHelpers: Loading map 'combat_generic_plains' took 1.074
+[2019.03.07-17.37.40:119][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.38.03:636][423]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.38.13:365][586]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.38.22:726][752]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.38.41:152][ 74]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.38.50:867][228]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-17.38.51:649][243]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-17.38.52:118][251]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-17.38.58:575][363]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.39.06:824][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.39.24:754][833]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.39.35:253][ 10]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.39.48:083][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.40.02:142][469]Cmd: DELETE
+[2019.03.07-17.40.02:142][469]Cmd: ACTOR DELETE
+[2019.03.07-17.40.02:154][469]LogEditorActor: Deleted Actor: RectLight
+[2019.03.07-17.40.02:289][469]LogEditorActor: Deleted 1 Actors (0.147 secs)
+[2019.03.07-17.40.06:167][538]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.03.07-17.40.24:345][824]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.40.28:634][897]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.41.07:201][151]LogEditorFactories: Performing atomic reimport of [G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/bush.png]
+[2019.03.07-17.41.07:202][151]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/bush.png)
+[2019.03.07-17.41.07:229][151]LogTexture: Display: Building textures: bush (AutoDXT, 512X512)
+[2019.03.07-17.41.07:330][151]LogEditorFactories: -- imported successfully
+[2019.03.07-17.41.07:354][151]LogEditorFactories: Performing atomic reimport of [G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/cloud.png]
+[2019.03.07-17.41.07:355][151]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/cloud.png)
+[2019.03.07-17.41.07:372][151]LogTexture: Display: Building textures: cloud (AutoDXT, 512X512)
+[2019.03.07-17.41.07:461][151]LogEditorFactories: -- imported successfully
+[2019.03.07-17.41.07:485][151]LogEditorFactories: Performing atomic reimport of [G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/log.png]
+[2019.03.07-17.41.07:486][151]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/log.png)
+[2019.03.07-17.41.07:498][151]LogTexture: Display: Building textures: log (AutoDXT, 512X512)
+[2019.03.07-17.41.07:586][151]LogEditorFactories: -- imported successfully
+[2019.03.07-17.41.07:609][151]LogEditorFactories: Performing atomic reimport of [G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/tree.png]
+[2019.03.07-17.41.07:610][151]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/tree.png)
+[2019.03.07-17.41.07:623][151]LogTexture: Display: Building textures: tree (AutoDXT, 512X512)
+[2019.03.07-17.41.07:717][151]LogEditorFactories: -- imported successfully
+[2019.03.07-17.41.21:350][343]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.45.57:364][497]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.46.12:823][790]LogAssetEditorManager: Opening Asset editor for Material /Game/2DSideScrollerBP/Pixelate.Pixelate
+[2019.03.07-17.46.12:835][790]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.46.14:119][790]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.46.14:171][790]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.07-17.46.14:171][790]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.03.07-17.46.14:171][790]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.03.07-17.46.30:280][960]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.46.32:349][  8]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.46.32:404][  8]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.46.32:428][  8]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.46.44:810][193]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.46.48:564][268]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.46.48:878][276]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.46.53:115][378]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.46.54:978][404]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.46.58:699][457]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.47.04:923][591]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.47.05:412][602]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.47.05:433][602]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.47.12:746][732]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.47.13:066][737]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.47.24:000][927]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.47.26:012][958]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.07-17.47.26:076][959]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.47.28:781][  0]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.47.29:779][ 19]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.47.37:158][140]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.47.37:978][151]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.47.38:943][163]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant_0, compiling. 
+[2019.03.07-17.47.39:701][175]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.07-17.47.41:787][206]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.47.43:883][233]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.47.44:578][242]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.07-17.47.46:702][275]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.47.48:997][307]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.07-17.47.57:146][422]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.47.57:171][422]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.47.58:949][448]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.47.59:175][450]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.48.02:650][497]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.48.03:803][514]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.48.08:557][580]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.48.10:121][602]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.07-17.48.13:281][645]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.48.13:309][645]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.48.13:319][645]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.48.14:600][663]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.48.20:435][772]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.48.21:214][789]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.48.22:089][800]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.48.23:105][816]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.48.24:679][845]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.48.26:948][884]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.48.27:583][893]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.48.29:272][922]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.48.32:914][990]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.48.38:043][ 70]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.07-17.48.44:647][166]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.48.44:662][166]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.48.48:027][221]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.48.49:891][262]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.48.51:211][288]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.48.53:375][323]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.48.55:524][360]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.48.57:864][393]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.48.59:085][420]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.49.00:599][445]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.49.01:101][456]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.49.06:988][583]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.49.08:821][619]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.49.09:554][628]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.49.14:174][704]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.07-17.49.25:212][910]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.49.25:236][910]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.49.25:444][911]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.49.25:446][911]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.49.25:447][911]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.49.28:457][956]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.49.34:478][102]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.49.35:134][118]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.49.38:748][179]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.49.38:755][179]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.49.38:755][179]LogMaterial: 	(Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface.
+[2019.03.07-17.49.38:755][179]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.49.38:755][179]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.49.38:764][179]MaterialEditorStats: Error: [SM5] (Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface.
+[2019.03.07-17.49.38:764][179]MaterialEditorStats: Error: [SM5] (Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.49.38:764][179]MaterialEditorStats: Error: [SM5] SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.49.42:599][245]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.49.42:602][245]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.49.42:602][245]LogMaterial: 	(Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface.
+[2019.03.07-17.49.42:602][245]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.49.42:602][245]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.49.50:003][436]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.49.50:005][436]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.49.50:005][436]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.49.50:005][436]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.49.50:012][436]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.49.50:014][436]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.49.50:015][436]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.49.50:015][436]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.49.50:026][436]MaterialEditorStats: Error: [SM5] (Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.49.50:026][436]MaterialEditorStats: Error: [SM5] SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.49.53:291][458]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.49.53:293][458]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.49.53:293][458]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.49.53:293][458]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.49.57:326][582]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.49.57:328][582]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.49.57:328][582]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.49.57:328][582]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.49.57:336][582]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.49.57:338][582]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.49.57:338][582]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.49.57:338][582]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.49.58:593][600]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.49.58:595][600]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.49.58:595][600]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.49.58:595][600]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.02:043][705]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.02:044][705]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.02:044][705]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.02:044][705]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.02:051][705]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.02:052][705]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.02:052][705]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.02:052][705]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.03:306][723]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.03:308][723]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.03:308][723]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.03:308][723]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.04:342][751]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.04:343][751]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.04:343][751]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.04:344][751]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.04:350][751]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.04:352][751]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.04:352][751]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.04:352][751]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.05:584][770]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.05:586][770]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.05:586][770]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.05:586][770]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.10:098][912]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.10:100][912]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.10:100][912]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.10:100][912]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.10:107][912]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.10:109][912]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.10:109][912]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.10:109][912]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.12:054][945]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.12:056][945]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.12:056][945]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.12:057][945]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.13:456][988]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.13:458][988]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.13:458][988]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.13:458][988]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.13:466][988]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.13:468][988]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.13:468][988]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.13:469][988]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.14:156][998]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.14:158][998]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.14:158][998]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.14:158][998]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.15:495][ 38]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.15:496][ 38]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.15:496][ 38]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.15:496][ 38]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.15:503][ 38]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.15:505][ 38]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.15:505][ 38]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.15:505][ 38]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.16:062][ 46]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.16:063][ 46]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.16:063][ 46]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.16:063][ 46]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.17:184][ 77]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.17:186][ 77]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.17:186][ 77]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.17:186][ 77]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.17:191][ 77]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.17:192][ 77]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.17:192][ 77]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.17:192][ 77]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.18:004][ 89]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.18:005][ 89]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.18:005][ 89]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.18:005][ 89]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.18:815][111]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.18:816][111]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.18:816][111]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.18:816][111]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.18:824][111]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.18:826][111]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.18:826][111]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.18:826][111]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.19:633][123]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.19:635][123]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.19:635][123]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.19:635][123]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.20:682][153]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.20:683][153]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.20:683][153]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.20:683][153]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.20:688][153]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.20:690][153]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.20:691][153]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.20:691][153]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.21:648][167]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.21:649][167]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.21:649][167]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.21:650][167]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.22:665][195]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.22:666][195]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.22:666][195]LogMaterial: 	(Node SceneTexture) Decal Mask bit was move out of GBuffer to the stencil buffer for performance optimisation and is therefor no longer available
+[2019.03.07-17.50.22:666][195]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.22:672][195]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.22:674][195]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.22:674][195]LogMaterial: 	(Node SceneTexture) Decal Mask bit was move out of GBuffer to the stencil buffer for performance optimisation and is therefor no longer available
+[2019.03.07-17.50.22:674][195]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.22:686][195]MaterialEditorStats: Error: [SM5] (Node SceneTexture) Decal Mask bit was move out of GBuffer to the stencil buffer for performance optimisation and is therefor no longer available
+[2019.03.07-17.50.22:686][195]MaterialEditorStats: Error: [SM5] (Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.23:924][214]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.23:926][214]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.23:926][214]LogMaterial: 	(Node SceneTexture) Decal Mask bit was move out of GBuffer to the stencil buffer for performance optimisation and is therefor no longer available
+[2019.03.07-17.50.23:926][214]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.24:872][239]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.24:874][239]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.24:874][239]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.24:874][239]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.24:882][239]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.24:884][239]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.24:884][239]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.24:884][239]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.24:895][239]MaterialEditorStats: Error: [SM5] (Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.24:895][239]MaterialEditorStats: Error: [SM5] SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.25:712][252]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.25:713][252]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.25:713][252]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.25:713][252]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.26:791][281]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.26:792][281]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.26:793][281]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.26:793][281]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.26:800][281]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.26:802][281]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.26:802][281]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.26:802][281]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.27:478][291]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.27:479][291]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.27:480][291]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.27:480][291]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.28:462][318]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.28:464][318]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.28:464][318]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.28:464][318]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.28:471][318]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.28:473][318]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.28:473][318]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.28:473][318]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.29:117][327]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.29:119][327]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.29:119][327]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.29:119][327]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.29:967][351]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.29:969][351]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.29:969][351]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.29:969][351]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.29:976][351]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.29:977][351]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.29:977][351]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.29:977][351]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.30:665][361]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.30:666][361]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.30:666][361]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.30:666][361]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.31:734][391]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.31:737][391]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.31:737][391]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.31:737][391]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.31:744][391]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.31:745][391]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.31:745][391]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.31:745][391]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.32:503][402]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.32:505][402]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.32:505][402]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.32:505][402]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.33:465][429]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.33:466][429]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.33:466][429]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.33:466][429]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.33:473][429]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.33:474][429]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.33:474][429]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.33:474][429]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.34:349][442]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.34:351][442]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.34:351][442]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.34:351][442]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.35:412][473]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.35:414][473]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.35:414][473]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.35:414][473]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.35:422][473]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.35:424][473]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.35:424][473]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.35:424][473]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.36:096][483]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.36:097][483]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.36:097][483]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.36:097][483]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.36:869][504]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.36:871][504]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.36:871][504]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.36:872][504]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.36:880][504]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.36:883][504]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.36:883][504]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.36:883][504]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.38:158][524]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.38:160][524]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.38:160][524]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.38:160][524]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.39:074][547]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.39:076][547]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.39:076][547]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.39:076][547]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.39:085][547]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.39:087][547]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.39:087][547]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.39:087][547]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.40:109][563]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.40:111][563]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.40:111][563]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.40:111][563]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.41:400][599]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.41:401][599]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.41:401][599]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.41:401][599]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.41:411][599]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.41:412][599]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.41:412][599]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.41:412][599]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.42:574][617]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.42:576][617]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.42:576][617]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.42:576][617]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.43:492][641]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.43:494][641]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.43:494][641]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.43:494][641]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.43:503][641]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.43:506][641]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.43:506][641]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.43:506][641]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.49:589][739]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.49:590][739]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.49:590][739]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.49:591][739]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.50:870][777]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.50:871][777]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.50:871][777]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.50:871][777]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.50:879][777]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.50:881][777]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.50:881][777]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.50:881][777]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.52:129][796]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.52:130][796]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.52:130][796]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.52:130][796]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.53:272][828]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.53:273][828]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.53:273][828]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.53:273][828]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.53:282][828]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.53:283][828]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.53:283][828]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.53:283][828]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.54:334][844]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.54:335][844]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.54:335][844]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.54:336][844]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.55:129][866]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.55:130][866]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.55:130][866]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.55:130][866]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.55:137][866]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.55:139][866]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.55:139][866]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.55:139][866]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.55:829][876]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.55:831][876]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.55:831][876]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.55:831][876]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.56:866][900]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.56:868][900]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.56:868][900]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.56:868][900]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.56:881][900]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.56:885][900]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.56:885][900]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.56:885][900]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.57:816][913]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.57:819][913]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.57:819][913]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.57:819][913]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.58:834][939]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.58:836][939]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.58:836][939]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.58:836][939]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.58:843][939]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.58:844][939]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.58:844][939]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.58:844][939]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.50.59:550][949]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.50.59:551][949]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.50.59:551][949]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.50.59:552][949]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.01:150][994]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.01:151][994]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.51.01:151][994]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.01:151][994]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.01:158][994]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.01:159][994]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.51.01:159][994]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.01:159][994]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.02:334][ 12]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.02:336][ 12]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.51.02:336][ 12]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.02:336][ 12]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.03:445][ 42]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.03:446][ 42]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.51.03:446][ 42]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.03:446][ 42]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.03:454][ 42]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.03:455][ 42]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.51.03:455][ 42]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.03:455][ 42]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.04:321][ 55]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.04:322][ 55]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.51.04:322][ 55]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.04:322][ 55]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.05:289][ 82]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.05:291][ 82]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.51.05:291][ 82]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.05:291][ 82]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.05:299][ 82]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.05:301][ 82]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.51.05:301][ 82]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.05:301][ 82]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.05:988][ 92]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.05:989][ 92]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.51.05:989][ 92]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.05:989][ 92]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.06:792][114]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.06:793][114]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.51.06:793][114]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.06:793][114]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2019.03.07-17.51.06:793][114]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.06:799][114]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.06:801][114]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.51.06:801][114]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.06:801][114]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2019.03.07-17.51.06:801][114]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.06:810][114]MaterialEditorStats: Error: [SM5] (Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.06:810][114]MaterialEditorStats: Error: [SM5] Only transparent or postprocess materials can read from scene depth.
+[2019.03.07-17.51.06:810][114]MaterialEditorStats: Error: [SM5] SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.07:745][128]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.07:746][128]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.51.07:746][128]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.07:746][128]LogMaterial: 	Only transparent or postprocess materials can read from scene depth.
+[2019.03.07-17.51.07:746][128]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.08:935][161]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.08:937][161]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.51.08:937][161]LogMaterial: 	(Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface.
+[2019.03.07-17.51.08:937][161]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.08:937][161]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.08:946][161]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.08:948][161]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.51.08:948][161]LogMaterial: 	(Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface.
+[2019.03.07-17.51.08:949][161]LogMaterial: 	(Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.08:949][161]LogMaterial: 	SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.08:958][161]MaterialEditorStats: Error: [SM5] (Node SceneTexture) SceneColor lookups are only available when MaterialDomain = Surface.
+[2019.03.07-17.51.08:958][161]MaterialEditorStats: Error: [SM5] (Node SceneTexture) Invalid node used in vertex/hull/domain shader input!
+[2019.03.07-17.51.08:958][161]MaterialEditorStats: Error: [SM5] SceneTexture expressions cannot be used in opaque materials
+[2019.03.07-17.51.27:071][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.51.37:680][532]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.37:885][533]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.51.37:885][533]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.51.37:885][533]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.51.44:267][684]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.07-17.51.46:806][748]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.46:822][748]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.51.46:822][748]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.51.46:896][748]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.47:124][749]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.03.07-17.51.47:301][751]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.07-17.51.49:989][791]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.07-17.51.50:047][792]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.07-17.51.50:916][804]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.07-17.51.51:977][826]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.51.53:266][845]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.03.07-17.51.56:199][893]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.03.07-17.51.56:530][898]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.03.07-17.51.56:531][898]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.03.07-17.51.56:597][899]LogMaterialEditor: Saving and Compiling material Pixelate
+[2019.03.07-17.52.06:689][899]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.07-17.52.06:734][899]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.52.06:774][899]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.52.06:774][899]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.52.06:913][899]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.52.07:031][899]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.52.07:194][899]TextureStreamingBuild: Display: Compiling optional shaders took 0.001 seconds.
+[2019.03.07-17.52.16:625][899]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.07-17.52.16:625][899]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.07-17.52.16:625][899]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.07-17.52.16:625][899]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.07-17.52.16:625][899]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.07-17.52.16:673][899]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Pixelate" FILE="../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/Pixelate.uasset" SILENT=true
+[2019.03.07-17.52.16:716][899]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/PixelateD26BEFB8405C1C97931CC69FA022D729.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/Pixelate.uasset'
+[2019.03.07-17.52.16:740][899]MaterialEditorStats: Base pass shader without light map: 29 instructions
+[2019.03.07-17.52.16:741][899]MaterialEditorStats: Base pass vertex shader: 43 instructions
+[2019.03.07-17.52.16:741][899]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.07-17.52.16:741][899]MaterialEditorStats: User interpolators: 6/8 Scalars (2/4 Vectors) (TexCoords: 6, Custom: 0)
+[2019.03.07-17.52.17:875][900]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/combat_generic_plains_Auto3B80766C941ED2930E7C48F913996B623.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Maps/combat_generic_plains_Auto3.umap'
+[2019.03.07-17.52.17:890][900]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/combat_generic_plains' took 0.995
+[2019.03.07-17.52.17:890][900]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.995
+[2019.03.07-17.52.17:898][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/images/Foilage/bush] ([1] browsable assets)...
+[2019.03.07-17.52.17:922][900]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/images/Foilage/bush.bush]
+[2019.03.07-17.52.17:922][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/images/Foilage/bush]
+[2019.03.07-17.52.18:198][900]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/bush_Auto3F996F8D546DE903BFA4823927DC3488D.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/images/Foilage/bush_Auto3.uasset'
+[2019.03.07-17.52.18:208][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/images/Foilage/cloud] ([1] browsable assets)...
+[2019.03.07-17.52.18:231][900]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/images/Foilage/cloud.cloud]
+[2019.03.07-17.52.18:231][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/images/Foilage/cloud]
+[2019.03.07-17.52.18:461][900]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/cloud_Auto38E0EB8E24B3AA3594545399DDB91080C.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/images/Foilage/cloud_Auto3.uasset'
+[2019.03.07-17.52.18:469][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/images/Foilage/log] ([1] browsable assets)...
+[2019.03.07-17.52.18:491][900]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/images/Foilage/log.log]
+[2019.03.07-17.52.18:491][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/images/Foilage/log]
+[2019.03.07-17.52.18:715][900]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/log_Auto3887298B4419029094498EDBCE95556BA.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/images/Foilage/log_Auto3.uasset'
+[2019.03.07-17.52.18:726][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/images/Foilage/tree] ([1] browsable assets)...
+[2019.03.07-17.52.18:747][900]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/images/Foilage/tree.tree]
+[2019.03.07-17.52.18:747][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/images/Foilage/tree]
+[2019.03.07-17.52.18:967][900]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/tree_Auto3ACF6ECBC410A5631EC2248B274694AD2.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/images/Foilage/tree_Auto3.uasset'
+[2019.03.07-17.52.18:973][900]LogFileHelpers: Auto-saving content packages took 1.081
+[2019.03.07-17.52.53:171][106]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.57.10:848][196]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.57.10:853][196]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.57.10:853][196]LogMaterial: 	Function PixelDepthOffset_Foliage: Cannot cast from float2 to float3.
+[2019.03.07-17.57.10:859][196]MaterialEditorStats: Error: [SM5] Function PixelDepthOffset_Foliage: Cannot cast from float2 to float3.
+[2019.03.07-17.57.13:198][241]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.57.13:338][242]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.57.13:338][242]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.57.13:338][242]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.57.19:641][334]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.07-17.57.20:527][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.57.20:634][349]LogMaterialEditor: Applying material Pixelate
+[2019.03.07-17.57.23:130][349]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.57.23:177][349]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.57.23:178][349]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.57.23:178][349]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.57.23:261][349]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.57.23:352][349]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.57.23:492][349]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.03.07-17.57.25:816][381]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.07-17.57.27:345][401]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.07-17.57.29:941][437]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.07-17.57.30:449][444]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.07-17.57.35:397][513]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.57.38:428][581]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.57.38:446][581]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.57.40:263][606]LogMaterialEditor: Applying material Pixelate
+[2019.03.07-17.57.43:283][606]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.57.43:283][606]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.57.43:320][606]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.57.43:483][606]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.57.43:577][606]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.57.43:728][606]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.03.07-17.57.46:804][650]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.07-17.57.48:941][680]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.07-17.57.52:191][727]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.07-17.57.58:162][814]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.07-17.57.59:393][842]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.58.01:311][869]LogMaterialEditor: Applying material Pixelate
+[2019.03.07-17.58.04:350][869]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.07-17.58.04:350][869]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.07-17.58.04:350][869]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.07-17.58.04:350][869]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.07-17.58.04:350][869]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.07-17.58.04:387][869]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.58.04:523][869]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.58.04:626][869]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.58.04:800][869]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.03.07-17.58.06:666][895]LogShaderCompilers: Display: Shaders left to compile 36
+[2019.03.07-17.58.07:063][901]LogShaderCompilers: Display: Shaders left to compile 35
+[2019.03.07-17.58.09:135][931]LogShaderCompilers: Display: Shaders left to compile 34
+[2019.03.07-17.58.10:737][955]LogShaderCompilers: Display: Shaders left to compile 33
+[2019.03.07-17.58.15:357][ 24]LogShaderCompilers: Display: Shaders left to compile 32
+[2019.03.07-17.58.16:193][ 37]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.07-17.58.41:654][417]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.58.45:957][476]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.03.07-17.58.54:484][614]LogEditorViewport: Clicking Background
+[2019.03.07-17.58.57:941][662]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.58.58:655][672]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.59.17:962][981]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2019.03.07-17.59.17:962][981]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.03.07-17.59.17:962][981]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.07-17.59.22:943][ 56]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.59.23:972][ 84]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.59.23:991][ 84]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.59.23:991][ 84]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.59.23:991][ 84]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.59.26:543][121]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.07-17.59.32:442][212]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.59.32:509][213]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.59.32:510][213]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.59.32:510][213]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.59.33:986][235]LogMaterialEditor: Applying material Pixelate
+[2019.03.07-17.59.36:952][235]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.07-17.59.36:982][235]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.59.37:027][235]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.59.37:027][235]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-17.59.37:027][235]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.03.07-17.59.37:114][235]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.59.37:221][235]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.59.37:385][235]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.03.07-17.59.40:204][276]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.07-17.59.40:658][283]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.07-17.59.43:191][321]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.07-17.59.45:620][359]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.07-17.59.50:065][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-17.59.50:879][439]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.59.50:896][439]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.59.52:501][463]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.59.52:504][463]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.59.52:504][463]LogMaterial: 	Function PixelDepthOffset_Foliage: (Node Subtract) Arithmetic between types float3 and float are undefined
+[2019.03.07-17.59.52:512][463]MaterialEditorStats: Error: [SM5] Function PixelDepthOffset_Foliage: (Node Subtract) Arithmetic between types float3 and float are undefined
+[2019.03.07-17.59.55:232][506]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.59.55:250][506]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-17.59.56:597][528]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.59.56:600][528]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-17.59.56:600][528]LogMaterial: 	Function PixelDepthOffset_Foliage: (Node Divide) Arithmetic between types float3 and float are undefined
+[2019.03.07-17.59.56:610][528]MaterialEditorStats: Error: [SM5] Function PixelDepthOffset_Foliage: (Node Divide) Arithmetic between types float3 and float are undefined
+[2019.03.07-17.59.58:766][563]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-17.59.59:281][569]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-18.00.00:084][583]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-18.00.00:088][583]LogMaterial: Warning: /Engine/Transient.Pixelate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2019.03.07-18.00.00:089][583]LogMaterial: 	Function PixelDepthOffset_Foliage: (Node Multiply) Arithmetic between types float3 and float are undefined
+[2019.03.07-18.00.00:098][583]MaterialEditorStats: Error: [SM5] Function PixelDepthOffset_Foliage: (Node Multiply) Arithmetic between types float3 and float are undefined
+[2019.03.07-18.00.01:321][599]LogEditorTransaction: Undo Create Pin Link
+[2019.03.07-18.00.01:417][599]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-18.00.01:474][599]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-18.00.02:718][621]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-18.00.02:912][625]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-18.00.04:989][654]LogMaterialEditor: Applying material Pixelate
+[2019.03.07-18.00.08:065][654]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.03.07-18.00.08:065][654]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.03.07-18.00.08:102][654]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-18.00.08:246][654]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-18.00.08:344][654]LogMaterial: Display: Missing cached shader map for material Pixelate, compiling. 
+[2019.03.07-18.00.08:523][654]TextureStreamingBuild: Display: Compiling optional shaders took 0.000 seconds.
+[2019.03.07-18.00.10:133][674]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.03.07-18.00.14:215][735]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.03.07-18.00.18:614][799]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.03.07-18.00.25:928][854]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.03.07-18.00.25:928][854]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.03.07-18.00.27:481][860]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.03.07-18.00.28:481][866]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.03.07-18.00.42:235][979]MaterialEditorStats: Base pass shader without light map: 37 instructions
+[2019.03.07-18.00.42:235][979]MaterialEditorStats: Base pass vertex shader: 32 instructions
+[2019.03.07-18.00.42:236][979]MaterialEditorStats: Texture samplers: 3/16
+[2019.03.07-18.00.46:943][993]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-18.00.54:055][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-18.00.58:270][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-18.01.00:855][194]LogSlate: Window 'Delete Assets' being destroyed
+[2019.03.07-18.01.01:839][194]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2019.03.07-18.01.02:075][194]LogSlate: Window 'Pixelate*' being destroyed
+[2019.03.07-18.01.02:383][194]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-18.01.06:187][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-18.02.20:596][462]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/combat_generic_plains_Auto4E837B2ED45003F4C389A1F874C96A56D.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Maps/combat_generic_plains_Auto4.umap'
+[2019.03.07-18.02.20:616][462]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/combat_generic_plains' took 1.074
+[2019.03.07-18.02.20:616][462]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.074
+[2019.03.07-19.10.32:236][566]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.11.48:714][930]LogEditorFactories: Performing atomic reimport of [G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/log.png]
+[2019.03.07-19.11.48:716][930]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/log.png)
+[2019.03.07-19.11.48:764][930]LogTexture: Display: Building textures: log (AutoDXT, 512X512)
+[2019.03.07-19.11.48:858][930]LogEditorFactories: -- imported successfully
+[2019.03.07-19.11.48:889][930]LogEditorFactories: Performing atomic reimport of [G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/tree.png]
+[2019.03.07-19.11.48:889][930]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/tree.png)
+[2019.03.07-19.11.48:907][930]LogTexture: Display: Building textures: tree (AutoDXT, 512X512)
+[2019.03.07-19.11.48:977][930]LogEditorFactories: -- imported successfully
+[2019.03.07-19.11.49:004][930]LogEditorFactories: Performing atomic reimport of [G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/bush.png]
+[2019.03.07-19.11.49:004][930]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/bush.png)
+[2019.03.07-19.11.49:022][930]LogTexture: Display: Building textures: bush (AutoDXT, 512X512)
+[2019.03.07-19.11.49:087][930]LogEditorFactories: -- imported successfully
+[2019.03.07-19.11.49:113][930]LogEditorFactories: Performing atomic reimport of [G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/cloud.png]
+[2019.03.07-19.11.49:113][930]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/cloud.png)
+[2019.03.07-19.11.49:132][930]LogTexture: Display: Building textures: cloud (AutoDXT, 512X512)
+[2019.03.07-19.11.49:212][930]LogEditorFactories: -- imported successfully
+[2019.03.07-19.11.49:322][930]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 G:\Aseprite v1.2.9\Sprites\Game\Processed Images\Tiles\tree_a.png)
+[2019.03.07-19.11.49:342][930]LogTexture: Display: Building textures: tree_a (AutoDXT, 512X512)
+[2019.03.07-19.12.17:716][765]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_Sprite)
+[2019.03.07-19.12.18:734][790]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_a_Sprite)
+[2019.03.07-19.12.19:792][814]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.12.22:779][887]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_Sprite)
+[2019.03.07-19.12.25:128][950]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_a_Sprite)
+[2019.03.07-19.12.28:761][ 39]LogEditorViewport: Clicking on Actor (LMB): combatCamera_C (combatCamera)
+[2019.03.07-19.12.32:845][132]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_Sprite)
+[2019.03.07-19.12.35:461][195]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.12.58:257][  9]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.03.07-19.12.59:249][ 29]LogEditorViewport: Clicking on Actor (LMB): combatCamera_C (combatCamera)
+[2019.03.07-19.13.05:541][168]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_a_Sprite)
+[2019.03.07-19.13.09:577][270]LogEditorViewport: Clicking on Actor (LMB): combatCamera_C (combatCamera)
+[2019.03.07-19.13.11:102][299]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (Background_Sprite)
+[2019.03.07-19.13.11:839][313]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_a_Sprite)
+[2019.03.07-19.13.16:088][415]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.03.07-19.13.24:614][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.13.35:078][934]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Player.Player
+[2019.03.07-19.13.42:388][980]BlueprintLog: New page: Compile Player
+[2019.03.07-19.13.50:144][ 42]LogEditorViewport: Clicking on Actor (LMB): combatCamera_C (combatCamera)
+[2019.03.07-19.13.57:836][168]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_a_Sprite)
+[2019.03.07-19.13.59:396][192]LogEditorViewport: Clicking on Actor (LMB): combatCamera_C (combatCamera)
+[2019.03.07-19.14.01:813][230]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_a_Sprite)
+[2019.03.07-19.14.03:071][248]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-19.14.18:480][520]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_Sprite)
+[2019.03.07-19.14.19:535][535]Cmd: DELETE
+[2019.03.07-19.14.19:535][535]Cmd: ACTOR DELETE
+[2019.03.07-19.14.19:549][535]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.03.07-19.14.19:671][535]LogEditorActor: Deleted 1 Actors (0.135 secs)
+[2019.03.07-19.14.20:118][544]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_a_Sprite)
+[2019.03.07-19.14.24:127][615]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.14.24:216][617]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.07-19.14.24:277][617]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains:PersistentLevel.combat_generic_plains' with GeneratedClass '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains:PersistentLevel.combat_generic_plains'
+[2019.03.07-19.14.24:277][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.07-19.14.24:277][617]PIE: New page: PIE session: combat_generic_plains (Mar 7, 2019, 3:14:24 AM)
+[2019.03.07-19.14.24:810][617]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_combat_generic_plains
+[2019.03.07-19.14.24:822][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011856s)
+[2019.03.07-19.14.24:824][617]LogAIModule: Creating AISystem for world combat_generic_plains
+[2019.03.07-19.14.24:825][617]LogPlayLevel: PIE: World Init took: (0.002540s)
+[2019.03.07-19.14.24:825][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains to /Game/2DSideScrollerBP/Maps/UEDPIE_0_combat_generic_plains.combat_generic_plains (0.014847s)
+[2019.03.07-19.14.24:946][617]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.07-19.14.24:970][617]LogInit: FAudioDevice initialized.
+[2019.03.07-19.14.24:992][617]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-19.14.25:137][617]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-19.14.25:144][617]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_combat_generic_plains.combat_generic_plains up for play (max tick rate 60) at 2019.03.07-11.14.25
+[2019.03.07-19.14.25:144][617]LogWorld: Bringing up level for play took: 0.005772
+[2019.03.07-19.14.25:172][617]LogScript: Warning: UGameplayStatics::BeginSpawningActorFromClass: can not spawn an actor from a NULL class
+[2019.03.07-19.14.25:229][617]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_combat_generic_plains 0.69
+[2019.03.07-19.14.25:230][617]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains:PersistentLevel.combat_generic_plains' with GeneratedClass '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains:PersistentLevel.combat_generic_plains'
+[2019.03.07-19.14.25:923][625]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.03.07-19.14.25:952][625]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.03.07-19.14.26:373][625]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.03.07-19.14.26:373][625]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-19.14.26:389][625]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.03.07-11.14.26
+[2019.03.07-19.14.26:391][625]LogWorld: Bringing up level for play took: 0.016085
+[2019.03.07-19.14.26:397][625]LogLoad: Took 0.445651 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap)
+[2019.03.07-19.14.31:239][716]LogNet: Browse: /Game/2DSideScrollerBP/Maps/combat_generic_plains
+[2019.03.07-19.14.31:268][716]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/combat_generic_plains
+[2019.03.07-19.14.31:396][716]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_combat_generic_plains
+[2019.03.07-19.14.31:406][716]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009556s)
+[2019.03.07-19.14.31:408][716]LogAIModule: Creating AISystem for world combat_generic_plains
+[2019.03.07-19.14.31:409][716]LogPlayLevel: PIE: World Init took: (0.002830s)
+[2019.03.07-19.14.31:409][716]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains to /Game/2DSideScrollerBP/Maps/UEDPIE_0_combat_generic_plains.combat_generic_plains (0.012729s)
+[2019.03.07-19.14.31:409][716]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-19.14.31:413][716]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_combat_generic_plains.combat_generic_plains up for play (max tick rate 60) at 2019.03.07-11.14.31
+[2019.03.07-19.14.31:414][716]LogWorld: Bringing up level for play took: 0.004293
+[2019.03.07-19.14.31:426][716]LogLoad: Took 0.157300 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_combat_generic_plains)
+[2019.03.07-19.14.34:072][766]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains:PersistentLevel.combat_generic_plains' with GeneratedClass '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains:PersistentLevel.combat_generic_plains'
+[2019.03.07-19.14.34:074][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-19.14.34:139][766]LogSlate: Window 'Game_2D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.07-19.14.34:222][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.07-19.14.34:222][766]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains:PersistentLevel.combat_generic_plains' with GeneratedClass '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/combat_generic_plains.combat_generic_plains:PersistentLevel.combat_generic_plains'
+[2019.03.07-19.14.34:392][767]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.03.07-19.14.38:718][846]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-19.14.43:208][929]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.14.52:092][ 75]LogEditorViewport: Clicking Background
+[2019.03.07-19.14.54:157][104]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_a_Sprite)
+[2019.03.07-19.14.56:651][139]LogEditorViewport: Clicking Background
+[2019.03.07-19.15.31:032][283]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/combat_generic_plains_Auto5E763EB574434F2DED6971292E9A08F45.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/Maps/combat_generic_plains_Auto5.umap'
+[2019.03.07-19.15.31:044][283]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/combat_generic_plains' took 0.872
+[2019.03.07-19.15.31:044][283]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.872
+[2019.03.07-19.15.31:052][283]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/images/Foilage/tree_a] ([1] browsable assets)...
+[2019.03.07-19.15.31:075][283]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/images/Foilage/tree_a.tree_a]
+[2019.03.07-19.15.31:075][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/images/Foilage/tree_a]
+[2019.03.07-19.15.31:099][283]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/tree_a_Auto5015E3D0F4E98FC179E3727A3EB7F45CB.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/images/Foilage/tree_a_Auto5.uasset'
+[2019.03.07-19.15.31:106][283]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/images/Foilage/bush] ([1] browsable assets)...
+[2019.03.07-19.15.31:129][283]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/images/Foilage/bush.bush]
+[2019.03.07-19.15.31:129][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/images/Foilage/bush]
+[2019.03.07-19.15.31:359][283]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/bush_Auto50E1E0EFA48DE0CB8B43DEBB6FB292394.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/images/Foilage/bush_Auto5.uasset'
+[2019.03.07-19.15.31:368][283]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/images/Foilage/cloud] ([1] browsable assets)...
+[2019.03.07-19.15.31:390][283]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/images/Foilage/cloud.cloud]
+[2019.03.07-19.15.31:390][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/images/Foilage/cloud]
+[2019.03.07-19.15.31:624][283]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/cloud_Auto5E44B210144D3B44B3C33ACB75D7B5A24.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/images/Foilage/cloud_Auto5.uasset'
+[2019.03.07-19.15.31:633][283]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/images/Foilage/log] ([1] browsable assets)...
+[2019.03.07-19.15.31:655][283]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/images/Foilage/log.log]
+[2019.03.07-19.15.31:655][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/images/Foilage/log]
+[2019.03.07-19.15.31:880][283]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/log_Auto511EBCCBA4534A64A3B0890A50FD367E0.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/images/Foilage/log_Auto5.uasset'
+[2019.03.07-19.15.31:889][283]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/images/Foilage/tree] ([1] browsable assets)...
+[2019.03.07-19.15.31:911][283]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/images/Foilage/tree.tree]
+[2019.03.07-19.15.31:911][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/images/Foilage/tree]
+[2019.03.07-19.15.32:165][283]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/tree_Auto57B6226354502F1486298669E6DDB310B.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/images/Foilage/tree_Auto5.uasset'
+[2019.03.07-19.15.32:174][283]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/images/Foilage/tree_a_Sprite] ([1] browsable assets)...
+[2019.03.07-19.15.32:196][283]OBJ SavePackage:     Rendered thumbnail for [PaperSprite /Game/2DSideScrollerBP/images/Foilage/tree_a_Sprite.tree_a_Sprite]
+[2019.03.07-19.15.32:196][283]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/images/Foilage/tree_a_Sprite]
+[2019.03.07-19.15.32:218][283]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/tree_a_Sprite_Auto5F237D193404B04CE723CEDB441311171.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/2DSideScrollerBP/images/Foilage/tree_a_Sprite_Auto5.uasset'
+[2019.03.07-19.15.32:223][283]LogFileHelpers: Auto-saving content packages took 1.176
+[2019.03.07-19.15.56:587][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.16.02:103][422]LogEditorFactories: Performing atomic reimport of [G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/tree_a.png]
+[2019.03.07-19.16.02:104][422]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/tree_a.png)
+[2019.03.07-19.16.02:127][422]LogTexture: Display: Building textures: tree_a (AutoDXT, 512X512)
+[2019.03.07-19.16.02:216][422]LogEditorFactories: -- imported successfully
+[2019.03.07-19.16.09:535][522]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_a_Sprite)
+[2019.03.07-19.16.12:649][569]LogEditorViewport: Clicking Background
+[2019.03.07-19.16.25:492][779]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2019.03.07-19.16.26:654][795]Cmd: DELETE
+[2019.03.07-19.16.26:654][795]Cmd: ACTOR DELETE
+[2019.03.07-19.16.26:668][795]LogEditorActor: Deleted Actor: DirectionalLight
+[2019.03.07-19.16.26:791][795]LogEditorActor: Deleted 1 Actors (0.136 secs)
+[2019.03.07-19.16.28:758][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.16.32:397][876]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.03.07-19.16.32:423][876]LogAssetEditorManager: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap
+[2019.03.07-19.16.33:635][876]LogSlate: Window 'Save Content' being destroyed
+[2019.03.07-19.16.33:891][876]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/bush9672884A4F557B97661AE59AE8A88B2A.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/images/Foilage/bush.uasset'
+[2019.03.07-19.16.34:134][876]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/cloud02D0A5AE4431A275C0425F9CC74A0CFF.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/images/Foilage/cloud.uasset'
+[2019.03.07-19.16.34:377][876]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/logCEEFFC284EC374FCFC6F548FE4226A72.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/images/Foilage/log.uasset'
+[2019.03.07-19.16.34:632][876]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/treeBC8AA20B4F018034E412A2B4BD638DFB.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/images/Foilage/tree.uasset'
+[2019.03.07-19.16.34:713][876]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/tree_aE622E4324ED7309C64C768A33C1FB92F.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/images/Foilage/tree_a.uasset'
+[2019.03.07-19.16.34:743][876]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/tree_a_SpriteDB3C78C44CE6187A9FBAB1ADD0323A13.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/images/Foilage/tree_a_Sprite.uasset'
+[2019.03.07-19.16.35:917][876]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Saved/combat_generic_plains2A9A91D44B6065058D1275991BDD3B18.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/Maps/combat_generic_plains.umap'
+[2019.03.07-19.16.36:010][876]LogFileHelpers: Saving map 'combat_generic_plains' took 1.253
+[2019.03.07-19.16.36:013][876]Cmd: MAP LOAD FILE="../../../../../../Users/ayden/Documents/Unreal Projects/MyProject/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.07-19.16.36:013][876]LightingResults: New page: Lighting Build
+[2019.03.07-19.16.36:015][876]LoadErrors: New page: Loading map: 2DSideScrollerExampleMap.umap
+[2019.03.07-19.16.36:017][876]MapCheck: New page: Map Check
+[2019.03.07-19.16.36:017][876]LightingResults: New page: Lighting Build
+[2019.03.07-19.16.36:431][876]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.07-19.16.36:616][876]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.07-19.16.36:909][876]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 293.153ms to complete.
+[2019.03.07-19.16.36:924][876]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.913
+[2019.03.07-19.16.48:925][ 85]LogEditorViewport: Clicking Background
+[2019.03.07-19.16.49:616][ 96]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2019.03.07-19.16.49:855][ 96]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-19.16.51:248][121]LogEditorViewport: Clicking Background
+[2019.03.07-19.16.51:762][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.17.02:544][302]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_Sprite2)
+[2019.03.07-19.17.04:348][331]Cmd: DELETE
+[2019.03.07-19.17.04:348][331]Cmd: ACTOR DELETE
+[2019.03.07-19.17.04:359][331]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.03.07-19.17.04:473][331]LogEditorActor: Deleted 1 Actors (0.125 secs)
+[2019.03.07-19.17.08:003][391]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.19.06:347][883]LogEditorFactories: Performing atomic reimport of [G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/tree.png]
+[2019.03.07-19.19.06:347][883]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 G:/Aseprite v1.2.9/Sprites/Game/Processed Images/Tiles/tree.png)
+[2019.03.07-19.19.06:386][883]LogTexture: Display: Building textures: tree (AutoDXT, 512X512)
+[2019.03.07-19.19.06:468][883]LogEditorFactories: -- imported successfully
+[2019.03.07-19.19.08:566][890]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.19.13:831][979]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_Sprite5)
+[2019.03.07-19.19.16:568][ 28]Cmd: DELETE
+[2019.03.07-19.19.16:568][ 28]Cmd: ACTOR DELETE
+[2019.03.07-19.19.16:578][ 28]LogEditorActor: Deleted Actor: PaperSpriteActor
+[2019.03.07-19.19.16:686][ 28]LogEditorActor: Deleted 1 Actors (0.118 secs)
+[2019.03.07-19.19.17:200][ 38]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_a_Sprite2)
+[2019.03.07-19.19.21:652][111]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-19.19.35:827][357]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_Sprite3)
+[2019.03.07-19.19.36:976][375]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_a_Sprite2)
+[2019.03.07-19.19.39:055][409]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.19.50:221][604]LogEditorViewport: Clicking on Actor (context menu): PaperGroupedSpriteActor (PaperGroupedSpriteActor2)
+[2019.03.07-19.19.50:843][604]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-19.19.54:660][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.19.56:669][697]LogEditorViewport: Clicking on Actor (context menu): PaperGroupedSpriteActor (PaperGroupedSpriteActor2)
+[2019.03.07-19.19.57:242][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-19.19.57:879][706]LogEditorViewport: Clicking on Actor (context menu): PaperSpriteActor (Background_Sprite)
+[2019.03.07-19.19.58:016][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-19.19.58:592][713]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_a_Sprite2)
+[2019.03.07-19.20.00:205][739]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.20.05:722][835]LogEditorViewport: Clicking on Actor (LMB): PaperGroupedSpriteActor (PaperGroupedSpriteActor2)
+[2019.03.07-19.20.06:730][843]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (bush_Sprite5)
+[2019.03.07-19.20.12:381][938]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (tree_a_Sprite)
+[2019.03.07-19.20.13:516][955]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.20.17:393][ 21]LogEditorViewport: Clicking on Actor (LMB): PaperSpriteActor (bush_Sprite8)
+[2019.03.07-19.20.50:397][618]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-19.20.51:544][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.07-19.20.55:639][707]LogEditorViewport: Clicking Background
+[2019.03.07-19.21.06:289][880]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.07-19.21.06:448][883]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.07-19.21.06:521][883]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.03.07-19.21.06:522][883]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.07-19.21.06:522][883]PIE: New page: PIE session: 2DSideScrollerExampleMap (Mar 7, 2019, 3:21:06 AM)
+[2019.03.07-19.21.06:523][883]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.03.07-19.21.06:536][883]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012823s)
+[2019.03.07-19.21.06:537][883]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.03.07-19.21.06:537][883]LogPlayLevel: PIE: World Init took: (0.001376s)
+[2019.03.07-19.21.06:537][883]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.014502s)
+[2019.03.07-19.21.06:671][883]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.07-19.21.06:693][883]LogInit: FAudioDevice initialized.
+[2019.03.07-19.21.06:715][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-19.21.06:865][883]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-19.21.06:881][883]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.03.07-11.21.06
+[2019.03.07-19.21.06:882][883]LogWorld: Bringing up level for play took: 0.015217
+[2019.03.07-19.21.06:970][883]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap 0.431
+[2019.03.07-19.21.06:971][883]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.03.07-19.21.13:941][  2]LogNet: Browse: /Game/2DSideScrollerBP/Maps/combat_generic_plains
+[2019.03.07-19.21.13:968][  2]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/combat_generic_plains
+[2019.03.07-19.21.14:316][  2]LogAIModule: Creating AISystem for world combat_generic_plains
+[2019.03.07-19.21.14:317][  2]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-19.21.14:326][  2]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_combat_generic_plains.combat_generic_plains up for play (max tick rate 60) at 2019.03.07-11.21.14
+[2019.03.07-19.21.14:326][  2]LogWorld: Bringing up level for play took: 0.007732
+[2019.03.07-19.21.14:338][  2]LogLoad: Took 0.370164 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/combat_generic_plains)
+[2019.03.07-19.21.23:275][162]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-19.21.28:585][257]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.03.07-19.21.28:609][257]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.03.07-19.21.28:734][257]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.03.07-19.21.28:748][257]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014003s)
+[2019.03.07-19.21.28:750][257]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.03.07-19.21.28:750][257]LogPlayLevel: PIE: World Init took: (0.001973s)
+[2019.03.07-19.21.28:750][257]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.016389s)
+[2019.03.07-19.21.28:751][257]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-19.21.28:762][257]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.03.07-11.21.28
+[2019.03.07-19.21.28:764][257]LogWorld: Bringing up level for play took: 0.011355
+[2019.03.07-19.21.28:769][257]LogLoad: Took 0.160234 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2019.03.07-19.21.30:047][278]LogNet: Browse: /Game/2DSideScrollerBP/Maps/combat_generic_plains
+[2019.03.07-19.21.30:077][278]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/combat_generic_plains
+[2019.03.07-19.21.30:942][278]LogAIModule: Creating AISystem for world combat_generic_plains
+[2019.03.07-19.21.30:943][278]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-19.21.30:949][278]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_combat_generic_plains.combat_generic_plains up for play (max tick rate 60) at 2019.03.07-11.21.30
+[2019.03.07-19.21.30:949][278]LogWorld: Bringing up level for play took: 0.005147
+[2019.03.07-19.21.30:962][278]LogLoad: Took 0.885095 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/combat_generic_plains)
+[2019.03.07-19.21.42:263][480]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.03.07-19.21.42:289][480]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.03.07-19.21.42:431][480]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.03.07-19.21.42:442][480]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011037s)
+[2019.03.07-19.21.42:443][480]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.03.07-19.21.42:444][480]LogPlayLevel: PIE: World Init took: (0.001749s)
+[2019.03.07-19.21.42:444][480]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.013196s)
+[2019.03.07-19.21.42:444][480]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-19.21.42:458][480]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.03.07-11.21.42
+[2019.03.07-19.21.42:459][480]LogWorld: Bringing up level for play took: 0.013184
+[2019.03.07-19.21.42:465][480]LogLoad: Took 0.175909 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2019.03.07-19.21.49:904][613]LogCharacterMovement: slime_5 is stuck and failed to move! Velocity: X=38.91 Y=444.94 Z=0.00 Location: X=-398.30 Y=0.00 Z=73.23 Normal: X=0.00 Y=0.00 Z=1.00 PenetrationDepth:0.774 Actor:PaperGroupedSpriteActor_2 Component:RenderComponent BoneName:None (0 other events since notify)
+[2019.03.07-19.21.50:933][631]LogNet: Browse: /Game/2DSideScrollerBP/Maps/combat_generic_plains
+[2019.03.07-19.21.50:966][631]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/combat_generic_plains
+[2019.03.07-19.21.51:817][631]LogAIModule: Creating AISystem for world combat_generic_plains
+[2019.03.07-19.21.51:818][631]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-19.21.51:826][631]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_combat_generic_plains.combat_generic_plains up for play (max tick rate 60) at 2019.03.07-11.21.51
+[2019.03.07-19.21.51:827][631]LogWorld: Bringing up level for play took: 0.007465
+[2019.03.07-19.21.51:838][631]LogLoad: Took 0.871695 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/combat_generic_plains)
+[2019.03.07-19.22.02:304][822]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.03.07-19.22.02:327][822]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.03.07-19.22.02:462][822]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.03.07-19.22.02:475][822]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013064s)
+[2019.03.07-19.22.02:478][822]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.03.07-19.22.02:478][822]LogPlayLevel: PIE: World Init took: (0.002780s)
+[2019.03.07-19.22.02:478][822]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.016331s)
+[2019.03.07-19.22.02:479][822]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-19.22.02:491][822]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.03.07-11.22.02
+[2019.03.07-19.22.02:492][822]LogWorld: Bringing up level for play took: 0.011774
+[2019.03.07-19.22.02:498][822]LogLoad: Took 0.171011 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2019.03.07-19.22.09:693][952]LogNet: Browse: /Game/2DSideScrollerBP/Maps/combat_generic_plains
+[2019.03.07-19.22.09:726][952]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/combat_generic_plains
+[2019.03.07-19.22.10:570][952]LogAIModule: Creating AISystem for world combat_generic_plains
+[2019.03.07-19.22.10:570][952]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-19.22.10:579][952]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_combat_generic_plains.combat_generic_plains up for play (max tick rate 60) at 2019.03.07-11.22.10
+[2019.03.07-19.22.10:580][952]LogWorld: Bringing up level for play took: 0.007409
+[2019.03.07-19.22.10:590][952]LogLoad: Took 0.863933 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/combat_generic_plains)
+[2019.03.07-19.22.21:181][140]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.03.07-19.22.21:205][140]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.03.07-19.22.21:340][140]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.03.07-19.22.21:352][140]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011465s)
+[2019.03.07-19.22.21:353][140]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.03.07-19.22.21:353][140]LogPlayLevel: PIE: World Init took: (0.001478s)
+[2019.03.07-19.22.21:353][140]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.013313s)
+[2019.03.07-19.22.21:354][140]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-19.22.21:364][140]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.03.07-11.22.21
+[2019.03.07-19.22.21:366][140]LogWorld: Bringing up level for play took: 0.010882
+[2019.03.07-19.22.21:375][140]LogLoad: Took 0.169502 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2019.03.07-19.22.22:091][152]LogNet: Browse: /Game/2DSideScrollerBP/Maps/combat_generic_plains
+[2019.03.07-19.22.22:116][152]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/combat_generic_plains
+[2019.03.07-19.22.22:961][152]LogAIModule: Creating AISystem for world combat_generic_plains
+[2019.03.07-19.22.22:962][152]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-19.22.22:967][152]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_combat_generic_plains.combat_generic_plains up for play (max tick rate 60) at 2019.03.07-11.22.22
+[2019.03.07-19.22.22:968][152]LogWorld: Bringing up level for play took: 0.005343
+[2019.03.07-19.22.22:979][152]LogLoad: Took 0.863288 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/combat_generic_plains)
+[2019.03.07-19.22.32:034][312]LogNet: Browse: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.03.07-19.22.32:055][312]LogLoad: LoadMap: /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap
+[2019.03.07-19.22.32:176][312]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2019.03.07-19.22.32:193][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017235s)
+[2019.03.07-19.22.32:195][312]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2019.03.07-19.22.32:195][312]LogPlayLevel: PIE: World Init took: (0.002112s)
+[2019.03.07-19.22.32:196][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.019796s)
+[2019.03.07-19.22.32:196][312]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.07-19.22.32:208][312]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 60) at 2019.03.07-11.22.32
+[2019.03.07-19.22.32:209][312]LogWorld: Bringing up level for play took: 0.011375
+[2019.03.07-19.22.32:219][312]LogLoad: Took 0.164565 seconds to LoadMap(/Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap)
+[2019.03.07-19.22.36:079][381]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.03.07-19.22.36:080][381]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.07-19.22.36:146][381]LogSlate: Window 'Game_2D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.07-19.22.36:189][381]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.07-19.22.36:190][381]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap' with GeneratedClass '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap:PersistentLevel.2DSideScrollerExampleMap'
+[2019.03.07-19.22.36:389][382]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.03.07-19.22.49:525][592]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Character/Enemy/Slime/slime.slime
+[2019.03.07-19.22.55:651][651]LogUObjectBase: Warning: Object is not registered
+[2019.03.07-19.22.57:283][651]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.631 s
+[2019.03.07-19.22.57:283][651]LogOutputDevice: Error: === Handled ensure: ===
+[2019.03.07-19.22.57:283][651]LogOutputDevice: Error: 
+[2019.03.07-19.22.57:283][651]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.03.07-19.22.57:283][651]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.03.07-19.22.57:283][651]LogOutputDevice: Error: Stack: 
+[2019.03.07-19.22.57:283][651]LogOutputDevice: Error: [Callstack] 0x00007ffabfb771f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.07-19.22.57:283][651]LogOutputDevice: Error: [Callstack] 0x00007ffabf8b0c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.07-19.22.57:283][651]LogOutputDevice: Error: [Callstack] 0x00007ffabf8cb356 UE4Editor-Core.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffabbbc11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffabbbd060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffab8bfda7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffab7c8ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffab7c4f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffacffc8204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffad020e933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffad002281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffacfff8190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffacffeb073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffae817d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffae8170270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffae817f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffae816c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffafe8e6d41 USER32.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffafe8e6713 USER32.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffae8180646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ff6cbd454e5 UE4Editor.exe!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ff6cbd55b3c UE4Editor.exe!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ff6cbd55bba UE4Editor.exe!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ff6cbd63dac UE4Editor.exe!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ff6cbd65aaa UE4Editor.exe!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffafe0f3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: [Callstack] 0x00007ffafefb3691 ntdll.dll!UnknownFunction []
+[2019.03.07-19.22.57:284][651]LogOutputDevice: Error: 
+[2019.03.07-19.22.57:292][651]LogStats:                SubmitErrorReport -  0.001 s
