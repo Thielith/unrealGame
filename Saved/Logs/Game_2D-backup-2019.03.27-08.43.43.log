@@ -1,0 +1,1016 @@
+﻿Log file open, 03/21/19 14:10:41
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Game_2D
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.548877
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.667s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD A8-4500M APU with Radeon(tm) HD Graphics   , GPU: AMD Radeon HD 7640G
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.03.21-21.10.43:577][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.21-21.10.43:578][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.03.21-21.10.43:646][  0]LogHAL: Display: Platform has ~ 8 GB [8021880832 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.03.21-21.10.43:647][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.03.21-21.10.43:648][  0]LogInit: Going up to parent DeviceProfile []
+[2019.03.21-21.10.43:660][  0]LogInit: Computer: DESKTOP-LN9HFSU
+[2019.03.21-21.10.43:660][  0]LogInit: User: ayden
+[2019.03.21-21.10.43:660][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.03.21-21.10.43:660][  0]LogInit: High frequency timer resolution =1.852009 MHz
+[2019.03.21-21.10.43:661][  0]LogMemory: Memory total: Physical=7.5GB (8GB approx)
+[2019.03.21-21.10.43:661][  0]LogMemory: Platform Memory Stats for Windows
+[2019.03.21-21.10.43:661][  0]LogMemory: Process Physical Memory: 100.86 MB used, 100.86 MB peak
+[2019.03.21-21.10.43:661][  0]LogMemory: Process Virtual Memory: 92.23 MB used, 92.23 MB peak
+[2019.03.21-21.10.43:661][  0]LogMemory: Physical Memory: 2494.81 MB used,  5155.45 MB free, 7650.26 MB total
+[2019.03.21-21.10.43:661][  0]LogMemory: Virtual Memory: 4633.40 MB used,  5155.45 MB free, 134217728.00 MB total
+[2019.03.21-21.10.43:910][  0]LogInit: Using OS detected language (en-US).
+[2019.03.21-21.10.43:910][  0]LogInit: Using OS detected locale (en-US).
+[2019.03.21-21.10.43:915][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.03.21-21.10.45:163][  0]LogStreaming: Display: Took  1.250s to InitEngineTextLocalization.
+[2019.03.21-21.10.45:164][  0]LogInit: Setting process to per monitor DPI aware
+[2019.03.21-21.10.45:400][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.03.21-21.10.45:400][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.03.21-21.10.51:393][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.21-21.10.51:393][  0]LogD3D11RHI: D3D11 adapters:
+[2019.03.21-21.10.51:430][  0]LogD3D11RHI:    0. 'AMD Radeon HD 7640G' (Feature Level 11_0)
+[2019.03.21-21.10.51:430][  0]LogD3D11RHI:       479/0/3584 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2019.03.21-21.10.51:438][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.03.21-21.10.51:438][  0]LogD3D11RHI:       0/0/3825 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.03.21-21.10.51:438][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.03.21-21.10.51:453][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.03.21-21.10.51:453][  0]LogD3D11RHI:     GPU DeviceId: 0x9903 (for the marketing name, search the web for "GPU Device Id")
+[2019.03.21-21.10.51:453][  0]LogWindows: EnumDisplayDevices:
+[2019.03.21-21.10.51:454][  0]LogWindows:    0. 'AMD Radeon HD 7640G' (P:1 D:1)
+[2019.03.21-21.10.51:455][  0]LogWindows:    1. 'AMD Radeon HD 7640G' (P:0 D:0)
+[2019.03.21-21.10.51:457][  0]LogWindows:    2. 'AMD Radeon HD 7640G' (P:0 D:0)
+[2019.03.21-21.10.51:460][  0]LogWindows:    3. 'AMD Radeon HD 7640G' (P:0 D:0)
+[2019.03.21-21.10.51:461][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.03.21-21.10.51:461][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 7640G
+[2019.03.21-21.10.51:461][  0]LogD3D11RHI:   Driver Version: 15.200.1055.0 (internal:15.200.1055.0, unified:15.200.1055.0)
+[2019.03.21-21.10.51:461][  0]LogD3D11RHI:      Driver Date: 7-6-2015
+[2019.03.21-21.10.51:461][  0]LogRHI: Texture pool is 335 MB (70% of 479 MB)
+[2019.03.21-21.10.51:554][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2019.03.21-21.10.51:581][  0]LogD3D11RHI: Async texture creation enabled
+[2019.03.21-21.10.51:638][  0]LogD3D11RHI: GPU Timing Frequency: 50.000000 (Debug: 2 1)
+[2019.03.21-21.10.51:647][  0]LogShaderCompilers: Guid format shader working directory is -14 characters bigger than the processId version (../../../../../../Users/ayden/Documents/Unreal Projects/Game/Intermediate/Shaders/WorkingDirectory/8128/).
+[2019.03.21-21.10.51:648][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/ayden/AppData/Local/Temp/UnrealShaderWorkingDir/299BB6C740BFA3FA099477BC29851391/'.
+[2019.03.21-21.10.53:812][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.03.21-21.10.53:866][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.03.21-21.10.53:924][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.03.21-21.10.53:979][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.03.21-21.10.54:046][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.03.21-21.10.54:102][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.03.21-21.10.54:155][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.03.21-21.10.54:211][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.03.21-21.10.54:239][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:579][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.03.21-21.10.54:588][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.03.21-21.10.54:765][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.21-21.10.54:765][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.03.21-21.10.54:859][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.21-21.10.54:859][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.03.21-21.10.54:911][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.03.21-21.10.54:963][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.03.21-21.10.55:017][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.03.21-21.10.55:093][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.03.21-21.10.55:133][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.03.21-21.10.55:133][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.03.21-21.10.55:467][  0]LogXGEController: Cleaning working directory: C:/Users/ayden/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.03.21-21.10.55:468][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.03.21-21.10.55:468][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.03.21-21.10.55:468][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.03.21-21.11.02:369][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.03.21-21.11.02:948][  0]LogDerivedDataCache: Loaded boot cache 0.58s 71MB C:/Users/ayden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.21-21.11.02:950][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/ayden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.03.21-21.11.02:950][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/ayden/Documents/Unreal Projects/Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.03.21-21.11.02:950][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.03.21-21.11.02:951][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/ayden/Documents/Unreal Projects/Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.03.21-21.11.02:951][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.03.21-21.11.03:013][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.03.21-21.11.03:031][  0]LogDerivedDataCache: Using Local data cache path C:/Users/ayden/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.03.21-21.11.03:031][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.03.21-21.11.03:031][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.03.21-21.11.03:099][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.03.21-21.11.03:111][  0]LogSlate: Using FreeType 2.6.0
+[2019.03.21-21.11.03:145][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.03.21-21.11.04:746][  0]LogAssetRegistry: FAssetRegistry took 0.0496 seconds to start up
+[2019.03.21-21.11.06:278][  0]LogInit: Selected Device Profile: [Windows]
+[2019.03.21-21.11.06:746][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.03.21-21.11.06:793][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.03.21-21.11.06:794][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.03.21-21.11.06:795][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.03.21-21.11.06:795][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.03.21-21.11.07:201][  0]LogNetVersion: Game_2D 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1840425873)
+[2019.03.21-21.11.10:376][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.522556 seconds
+[2019.03.21-21.11.10:402][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.03.21-21.11.10:402][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2019.03.21-21.11.10:402][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.03.21-21.11.30:272][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.03.21-21.11.30:305][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.03.21-21.11.31:274][  0]SourceControl: Source control is disabled
+[2019.03.21-21.11.31:277][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:277][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.03.21-21.11.31:278][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:278][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.03.21-21.11.31:280][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:280][  0]LogWindows: Warning: URL: C:\Users\ayden\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.03.21-21.11.31:281][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:281][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.03.21-21.11.31:281][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:281][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.03.21-21.11.31:282][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:282][  0]LogWindows: Warning: URL: C:\Users\ayden\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.03.21-21.11.31:283][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:283][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.03.21-21.11.31:309][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:309][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.03.21-21.11.31:310][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:310][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.03.21-21.11.31:311][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:311][  0]LogWindows: Warning: URL: C:\Users\ayden\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.03.21-21.11.31:311][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:311][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.03.21-21.11.31:312][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:312][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.03.21-21.11.31:312][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:312][  0]LogWindows: Warning: URL: C:\Users\ayden\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.03.21-21.11.31:313][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:313][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.03.21-21.11.31:332][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:332][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.03.21-21.11.31:334][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:334][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.03.21-21.11.31:335][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:335][  0]LogWindows: Warning: URL: C:\Users\ayden\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.03.21-21.11.31:335][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:335][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.03.21-21.11.31:336][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:336][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.03.21-21.11.31:336][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:336][  0]LogWindows: Warning: URL: C:\Users\ayden\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.03.21-21.11.31:337][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.31:337][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.03.21-21.11.32:117][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.03.21-21.11.32:320][  0]LogOcInput: OculusInput pre-init called
+[2019.03.21-21.11.32:668][  0]LogEngine: Initializing Engine...
+[2019.03.21-21.11.32:675][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.03.21-21.11.32:685][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.001 s
+[2019.03.21-21.11.32:686][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.21-21.11.32:686][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.21-21.11.32:686][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.21-21.11.33:823][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.03.21-21.11.33:930][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.03.21-21.11.33:974][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.21-21.11.34:028][  0]LogInit: FAudioDevice initialized.
+[2019.03.21-21.11.34:029][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.03.21-21.11.34:482][  0]LogDerivedDataCache: Saved boot cache 0.45s 71MB C:/Users/ayden/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.03.21-21.11.34:524][  0]LogInit: Texture streaming: Enabled
+[2019.03.21-21.11.34:599][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.03.21-21.11.34:661][  0]LogInit: Transaction tracking system initialized
+[2019.03.21-21.11.34:810][  0]BlueprintLog: New page: Editor Load
+[2019.03.21-21.11.35:495][  0]LocalizationService: Localization service is disabled
+[2019.03.21-21.11.35:803][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2019.03.21-21.11.35:804][  0]LogLinker: Warning: Can't find file '/Game/2DSideScrollerBP/2DSideScrollerOverview'
+[2019.03.21-21.11.35:804][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/2DSideScrollerBP/2DSideScrollerOverview.2DSideScrollerOverview_C'
+[2019.03.21-21.11.38:105][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.03.21-21.11.38:106][  0]LogCook: Display: Mobile HDR setting 1
+[2019.03.21-21.11.38:107][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.03.21-21.11.38:107][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.03.21-21.11.38:107][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.03.21-21.11.38:107][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.03.21-21.11.38:107][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.03.21-21.11.38:160][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayden/Documents/Unreal Projects/Game/Content/' took 0.04s
+[2019.03.21-21.11.39:335][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.39:335][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2019.03.21-21.11.39:336][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.39:336][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2019.03.21-21.11.39:337][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.39:337][  0]LogWindows: Warning: URL: C:\Users\ayden\AppData\Local/Programs/Git/cmd/git.exe version
+[2019.03.21-21.11.39:337][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.39:337][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2019.03.21-21.11.39:338][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.39:338][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2019.03.21-21.11.39:338][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.39:338][  0]LogWindows: Warning: URL: C:\Users\ayden\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2019.03.21-21.11.39:339][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2019.03.21-21.11.39:339][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2019.03.21-21.11.39:340][  0]Cmd: MAP LOAD FILE="../../../../../../Users/ayden/Documents/Unreal Projects/Game/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.21-21.11.39:340][  0]LogEditorServer: Warning: Can't find file '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap'
+[2019.03.21-21.11.39:342][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.21-21.11.39:560][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 217.622ms to complete.
+[2019.03.21-21.11.39:560][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.220
+[2019.03.21-21.11.39:939][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.11.39:969][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.11.39:997][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.11.40:026][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.11.40:074][  0]LogCollectionManager: Loaded 0 collections in 0.004829 seconds
+[2019.03.21-21.11.40:180][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayden/Documents/Unreal Projects/Game/Saved/Collections/' took 0.01s
+[2019.03.21-21.11.40:181][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayden/Documents/Unreal Projects/Game/Content/Developers/ayden/Collections/' took 0.01s
+[2019.03.21-21.11.40:181][  0]LogFileCache: Scanning file cache for directory 'C:/Users/ayden/Documents/Unreal Projects/Game/Content/Collections/' took 0.01s
+[2019.03.21-21.11.40:181][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.03.21-21.11.40:226][  0]LogContentBrowser: Native class hierarchy populated in 0.0411 seconds. Added 2572 classes and 603 folders.
+[2019.03.21-21.11.40:272][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.03.21-21.11.41:345][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2019.03.21-21.11.41:377][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2019.03.21-21.11.41:782][  0]LogSlate: Took 0.011580 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.03.21-21.11.41:812][  0]LogSlate: Took 0.024094 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.03.21-21.11.41:851][  0]LogSlate: Took 0.014881 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.03.21-21.11.42:276][  0]LogRenderer: Reallocating scene render targets to support 952x484 Format 9 NumSamples 1 (Frame:1).
+[2019.03.21-21.11.43:133][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2019.03.21-21.11.43:134][  0]LogLoad: (Engine Initialization) Total time: 72.90 seconds
+[2019.03.21-21.11.43:134][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.03.21-21.11.43:197][  0]LogContentStreaming: Texture pool size now 800 MB
+[2019.03.21-21.11.44:016][  1]LogSlate: Took 0.011353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.21-21.11.44:271][  6]LogAssetRegistry: Asset discovery search completed in 39.5529 seconds
+[2019.03.21-21.11.44:276][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2019.03.21-21.11.44:276][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000166 seconds (updated 0 objects)
+[2019.03.21-21.11.44:305][  6]LogSlate: Took 0.000844 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.03.21-21.11.46:876][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.21-21.11.47:169][109]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/2DSideScrollerBP/Blueprints/itemStructure.itemStructure
+[2019.03.21-21.11.47:554][109]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/2DSideScrollerBP/Blueprints/itemDefinitonStructure.itemDefinitonStructure
+[2019.03.21-21.11.49:280][109]LogBlueprint: Warning: [Compiler layout_main] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.03.21-21.11.49:345][109]LogBlueprint: Warning: [Compiler slot] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.03.21-21.11.49:929][109]LogBlueprint: Warning: [Compiler layout_main] [0079.69] Compile of layout_main successful, but with 1 Warning(s) [in 918 ms] (/Game/2DSideScrollerBP/Widgets/inventory/layout_Main.layout_main)
+[2019.03.21-21.11.49:930][109]LogBlueprint: Warning: [Compiler slot] [0079.69] Compile of slot successful, but with 1 Warning(s) [in 919 ms] (/Game/2DSideScrollerBP/Widgets/inventory/slot.slot)
+[2019.03.21-21.11.51:369][109]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/Player.Player
+[2019.03.21-21.11.53:458][109]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0024 seconds. Added 116 classes and 0 folders.
+[2019.03.21-21.11.56:380][109]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Widgets/inventory/slotDrag.slotDrag
+[2019.03.21-21.11.57:612][109]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Widgets/inventory/layout_Main.layout_main
+[2019.03.21-21.11.58:738][109]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/Widgets/inventory/slot.slot
+[2019.03.21-21.11.59:966][109]LogSlate: Took 0.011296 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.03.21-21.12.43:252][ 98]LogHttp: Warning: 000001B53623E200: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.21-21.12.43:252][ 98]LogHttp: Warning: 000001B53623E200: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.21-21.12.43:252][ 98]LogHttp: Warning: 000001B53623E200: libcurl info message cache 1 (Closing connection 0)
+[2019.03.21-21.13.40:461][320]LogSlate: Window 'Delete Variable' being destroyed
+[2019.03.21-21.14.09:748][870]LogSlate: Window 'Pick Parent Class' being destroyed
+[2019.03.21-21.14.11:770][914]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/NewBlueprint.NewBlueprint
+[2019.03.21-21.14.33:069][390]LogMaterial: Display: Missing cached shader map for material Material_0, compiling. 
+[2019.03.21-21.14.33:139][391]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.21-21.14.43:335][661]LogHttp: Warning: 000001B582372980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.21-21.14.43:335][661]LogHttp: Warning: 000001B582372980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.21-21.14.43:335][661]LogHttp: Warning: 000001B582372980: libcurl info message cache 1 (Closing connection 1)
+[2019.03.21-21.14.58:832][ 35]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.21-21.16.19:630][978]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.21-21.16.19:757][978]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.21-21.16.19:875][978]LogPlayLevel: [PlayLevel] Compiling slot before play...
+[2019.03.21-21.16.19:952][978]LogBlueprint: Error: [Compiler slot] Outer object is required in  Construct Object from Class
+[2019.03.21-21.16.19:991][978]LogBlueprint: Warning: [Compiler slot] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.03.21-21.16.20:041][978]LogBlueprint: Warning: [Compiler slot] [0349.80] Compile of slot failed. 1 Fatal Issue(s) 1 Warning(s) [in 211 ms] (/Game/2DSideScrollerBP/Widgets/inventory/slot.slot)
+[2019.03.21-21.16.20:855][978]LogPlayLevel: PlayLevel: Blueprint regeneration took 1097 ms (1 blueprints)
+[2019.03.21-21.16.20:855][978]BlueprintLog: Blueprint slot failed to compile
+[2019.03.21-21.16.22:259][978]LogSlate: Window 'Message' being destroyed
+[2019.03.21-21.16.43:389][449]LogHttp: Warning: 000001B57E4965C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.21-21.16.43:389][449]LogHttp: Warning: 000001B57E4965C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.21-21.16.43:389][449]LogHttp: Warning: 000001B57E4965C0: libcurl info message cache 1 (Closing connection 2)
+[2019.03.21-21.16.44:872][480]LogSlate: Took 0.003175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.03.21-21.16.51:438][673]BlueprintLog: New page: Compile NewBlueprint
+[2019.03.21-21.16.56:138][771]BlueprintLog: New page: Compile NewBlueprint
+[2019.03.21-21.17.00:907][869]BlueprintLog: New page: Compile slot
+[2019.03.21-21.17.01:125][869]LogBlueprint: Warning: [Compiler slot] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.03.21-21.17.01:799][869]LogBlueprint: Warning: [Compiler slot] [0391.56] Compile of slot successful, but with 1 Warning(s) [in 892 ms] (/Game/2DSideScrollerBP/Widgets/inventory/slot.slot)
+[2019.03.21-21.17.25:191][367]LogClass: Warning: Type mismatch in itemData of SKEL_NewBlueprint_C - Previous (StructProperty) Current(BoolProperty) for package:  FObjectReader
+[2019.03.21-21.17.29:657][459]BlueprintLog: New page: Compile slot
+[2019.03.21-21.17.29:876][459]LogBlueprint: Warning: [Compiler slot] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.03.21-21.17.30:593][459]LogBlueprint: Warning: [Compiler slot] [0420.36] Compile of slot successful, but with 1 Warning(s) [in 935 ms] (/Game/2DSideScrollerBP/Widgets/inventory/slot.slot)
+[2019.03.21-21.17.32:589][502]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.21-21.17.51:966][972]BlueprintLog: New page: Compile slot
+[2019.03.21-21.17.52:189][972]LogBlueprint: Warning: [Compiler slot] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.03.21-21.17.52:933][972]LogBlueprint: Warning: [Compiler slot] [0442.70] Compile of slot successful, but with 1 Warning(s) [in 966 ms] (/Game/2DSideScrollerBP/Widgets/inventory/slot.slot)
+[2019.03.21-21.17.57:125][ 61]BlueprintLog: New page: Compile NewBlueprint
+[2019.03.21-21.18.39:804][101]LogSlate: Took 0.010233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.03.21-21.18.42:920][176]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.21-21.18.43:024][176]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.21-21.18.43:123][176]LogPlayLevel: [PlayLevel] Compiling slot before play...
+[2019.03.21-21.18.43:239][176]LogBlueprint: Warning: [Compiler slot] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.03.21-21.18.43:290][176]LogBlueprint: Warning: [Compiler slot] [0493.05] Compile of slot successful, but with 1 Warning(s) [in 190 ms] (/Game/2DSideScrollerBP/Widgets/inventory/slot.slot)
+[2019.03.21-21.18.43:941][176]LogPlayLevel: PlayLevel: Blueprint regeneration took 916 ms (1 blueprints)
+[2019.03.21-21.18.43:965][176]PIE: New page: PIE session: Untitled_0 (Mar 21, 2019, 7:18:43 AM)
+[2019.03.21-21.18.43:989][176]LogPlayLevel: Creating play world package: /Temp/UEDPIE_0_Untitled_0
+[2019.03.21-21.18.43:995][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005245s)
+[2019.03.21-21.18.43:996][176]LogAIModule: Creating AISystem for world Untitled
+[2019.03.21-21.18.43:997][176]LogPlayLevel: PIE: World Init took: (0.002055s)
+[2019.03.21-21.18.43:997][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Temp/Untitled_0.Untitled to /Temp/UEDPIE_0_Untitled_0.Untitled (0.007829s)
+[2019.03.21-21.18.44:141][176]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.21-21.18.44:170][176]LogInit: FAudioDevice initialized.
+[2019.03.21-21.18.44:187][176]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.18.44:405][176]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.21-21.18.44:407][176]LogWorld: Bringing World /Temp/UEDPIE_0_Untitled_0.Untitled up for play (max tick rate 60) at 2019.03.21-14.18.44
+[2019.03.21-21.18.44:408][176]LogWorld: Bringing up level for play took: 0.001209
+[2019.03.21-21.18.44:463][176]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 10 classes and 0 folders.
+[2019.03.21-21.18.44:480][176]PIE: Play in editor start time for /Temp/UEDPIE_0_Untitled_0 1.454
+[2019.03.21-21.18.44:672][176]LogRenderer: Reallocating scene render targets to support 1292x756 Format 9 NumSamples 1 (Frame:1).
+[2019.03.21-21.18.44:957][178]LogHttp: Warning: 000001B5015082C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.21-21.18.44:957][178]LogHttp: Warning: 000001B5015082C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.21-21.18.44:957][178]LogHttp: Warning: 000001B5015082C0: libcurl info message cache 1 (Closing connection 3)
+[2019.03.21-21.18.48:052][232]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.18.48:122][232]LogSlate: Window 'Game_2D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.21-21.18.48:164][232]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.21-21.18.48:339][233]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.03.21-21.18.58:301][385]LogAIModule: Creating AISystem for world main
+[2019.03.21-21.18.58:337][385]LogAssetEditorManager: Opening Asset editor for World /Game/2DSideScrollerBP/Maps/main.main
+[2019.03.21-21.18.59:551][385]LogSlate: Window 'Save Content' being destroyed
+[2019.03.21-21.18.59:593][385]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Saved/NewBlueprint1F283A2743828AE623E9118B125FEFCC.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Content/2DSideScrollerBP/Blueprints/NewBlueprint.uasset'
+[2019.03.21-21.19.00:171][385]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Saved/slot0D6BED5F43EC2AF230D2ED909804D919.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Content/2DSideScrollerBP/Widgets/inventory/slot.uasset'
+[2019.03.21-21.19.00:188][385]Cmd: MAP LOAD FILE="../../../../../../Users/ayden/Documents/Unreal Projects/Game/Content/2DSideScrollerBP/Maps/main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.03.21-21.19.00:188][385]LightingResults: New page: Lighting Build
+[2019.03.21-21.19.00:209][385]LogContentBrowser: Native class hierarchy updated for 'StatsViewer' in 0.0009 seconds. Added 5 classes and 0 folders.
+[2019.03.21-21.19.00:212][385]LoadErrors: New page: Loading map: main.umap
+[2019.03.21-21.19.00:212][385]MapCheck: New page: Map Check
+[2019.03.21-21.19.00:212][385]LightingResults: New page: Lighting Build
+[2019.03.21-21.19.00:697][385]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.03.21-21.19.00:947][385]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.03.21-21.19.01:316][385]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 368.308ms to complete.
+[2019.03.21-21.19.01:318][385]LogFileHelpers: Loading map 'main' took 1.133
+[2019.03.21-21.19.03:739][408]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.21-21.19.03:846][408]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.19.03:846][408]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.21-21.19.03:846][408]PIE: New page: PIE session: main (Mar 21, 2019, 7:19:03 AM)
+[2019.03.21-21.19.03:865][408]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_main
+[2019.03.21-21.19.03:879][408]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014625s)
+[2019.03.21-21.19.03:882][408]LogAIModule: Creating AISystem for world main
+[2019.03.21-21.19.03:882][408]LogPlayLevel: PIE: World Init took: (0.002645s)
+[2019.03.21-21.19.03:883][408]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/main.main to /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main (0.017857s)
+[2019.03.21-21.19.04:021][408]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.21-21.19.04:048][408]LogInit: FAudioDevice initialized.
+[2019.03.21-21.19.04:064][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.19.04:121][408]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.21-21.19.04:134][408]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main up for play (max tick rate 60) at 2019.03.21-14.19.04
+[2019.03.21-21.19.04:139][408]LogWorld: Bringing up level for play took: 0.015867
+[2019.03.21-21.19.04:172][408]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_main 1.146
+[2019.03.21-21.19.04:173][408]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.19.10:843][516]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsSlot
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:00A7
+[2019.03.21-21.19.10:843][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:844][516]LogScript: Warning: Accessed None reading structure name_4_A4FC59F640C6CEFD8CACD399DCD6A410
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:00BC
+[2019.03.21-21.19.10:844][516]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure name_4_A4FC59F640C6CEFD8CACD399DCD6A410". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:844][516]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsSlot
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:00F5
+[2019.03.21-21.19.10:845][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:845][516]LogScript: Warning: Accessed None reading structure bonusAmount_35_4ED640464A6141D08F7F04B83A534D4F
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:010A
+[2019.03.21-21.19.10:845][516]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure bonusAmount_35_4ED640464A6141D08F7F04B83A534D4F". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:845][516]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsSlot
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:0143
+[2019.03.21-21.19.10:846][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:846][516]LogScript: Warning: Accessed None reading structure bonusType_36_BFDD78AC48E55C64504DE89E7693D6F2
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:0158
+[2019.03.21-21.19.10:847][516]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure bonusType_36_BFDD78AC48E55C64504DE89E7693D6F2". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:848][516]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsSlot
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:0199
+[2019.03.21-21.19.10:848][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:848][516]LogScript: Warning: Accessed None reading structure amount_29_7B98DAD441FB64D796B4DBB665E089F8
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:01AE
+[2019.03.21-21.19.10:848][516]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure amount_29_7B98DAD441FB64D796B4DBB665E089F8". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:848][516]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsSlot
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:01E7
+[2019.03.21-21.19.10:850][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:850][516]LogScript: Warning: Accessed None reading structure type_26_543E1B3A40AEADE3F78C83BDDF9F0C67
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:01FC
+[2019.03.21-21.19.10:850][516]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_26_543E1B3A40AEADE3F78C83BDDF9F0C67". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:850][516]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsSlot
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:0264
+[2019.03.21-21.19.10:850][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:850][516]LogScript: Warning: Accessed None reading structure maxStackSize_24_0699E73744EE58DAA9DB659246E8EFF0
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:0279
+[2019.03.21-21.19.10:850][516]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure maxStackSize_24_0699E73744EE58DAA9DB659246E8EFF0". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:850][516]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsSlot
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:02C8
+[2019.03.21-21.19.10:852][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:852][516]LogScript: Warning: Accessed None reading structure description_22_0184E4934C69B3AEFF7F5695B54E898B
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:02DD
+[2019.03.21-21.19.10:852][516]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure description_22_0184E4934C69B3AEFF7F5695B54E898B". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:852][516]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsSlot
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:0316
+[2019.03.21-21.19.10:852][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:852][516]LogScript: Warning: Accessed None reading structure image_21_9DB5CDA24340052BCAF3EB9692285392
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:032B
+[2019.03.21-21.19.10:852][516]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure image_21_9DB5CDA24340052BCAF3EB9692285392". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.10:853][516]LogScript: Warning: Accessed None trying to read property K2Node_DynamicCast_AsSlot
+	slot_C /Engine/Transient.UnrealEdEngine_0:mainInstance_C_1.inventory_C_0.WidgetTree_0.slot_layout.WidgetTree_0.slot3
+	Function /Game/2DSideScrollerBP/Widgets/inventory/slot.slot_C:OnDrop:06EE
+[2019.03.21-21.19.10:854][516]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Set slotContent
+[2019.03.21-21.19.12:999][552]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.19.13:000][552]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.19.13:076][552]LogSlate: Window 'Game_2D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.21-21.19.13:118][552]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.21-21.19.13:118][552]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.19.13:379][553]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.03.21-21.19.41:506][ 12]BlueprintLog: New page: Compile NewBlueprint
+[2019.03.21-21.19.42:706][ 28]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.21-21.19.42:808][ 28]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.19.42:809][ 28]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.21-21.19.42:809][ 28]PIE: New page: PIE session: main (Mar 21, 2019, 7:19:42 AM)
+[2019.03.21-21.19.42:811][ 28]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_main
+[2019.03.21-21.19.42:825][ 28]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014792s)
+[2019.03.21-21.19.42:827][ 28]LogAIModule: Creating AISystem for world main
+[2019.03.21-21.19.42:828][ 28]LogPlayLevel: PIE: World Init took: (0.002481s)
+[2019.03.21-21.19.42:828][ 28]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/main.main to /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main (0.017723s)
+[2019.03.21-21.19.42:964][ 28]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.21-21.19.42:988][ 28]LogInit: FAudioDevice initialized.
+[2019.03.21-21.19.43:002][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.19.43:064][ 28]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.21-21.19.43:075][ 28]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main up for play (max tick rate 60) at 2019.03.21-14.19.43
+[2019.03.21-21.19.43:076][ 28]LogWorld: Bringing up level for play took: 0.009501
+[2019.03.21-21.19.43:108][ 28]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_main 0.082
+[2019.03.21-21.19.43:109][ 28]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.19.48:846][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:846][121]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure name_4_A4FC59F640C6CEFD8CACD399DCD6A410". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:846][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:847][121]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure bonusAmount_35_4ED640464A6141D08F7F04B83A534D4F". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:847][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:848][121]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure bonusType_36_BFDD78AC48E55C64504DE89E7693D6F2". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:848][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:848][121]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure amount_29_7B98DAD441FB64D796B4DBB665E089F8". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:848][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:849][121]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_26_543E1B3A40AEADE3F78C83BDDF9F0C67". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:849][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:849][121]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure maxStackSize_24_0699E73744EE58DAA9DB659246E8EFF0". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:850][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:850][121]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure description_22_0184E4934C69B3AEFF7F5695B54E898B". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:850][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:851][121]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure image_21_9DB5CDA24340052BCAF3EB9692285392". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.19.48:851][121]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Set slotContent
+[2019.03.21-21.19.49:325][129]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.19.49:327][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.19.49:399][129]LogSlate: Window 'Game_2D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.21-21.19.49:445][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.21-21.19.49:445][129]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.19.49:674][130]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.03.21-21.20.45:042][121]LogHttp: Warning: 000001B5330E2FC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.21-21.20.45:043][121]LogHttp: Warning: 000001B5330E2FC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.21-21.20.45:043][121]LogHttp: Warning: 000001B5330E2FC0: libcurl info message cache 1 (Closing connection 4)
+[2019.03.21-21.22.00:275][518]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.21-21.22.00:405][518]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.22.00:406][518]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.21-21.22.00:417][518]LogPlayLevel: [PlayLevel] Compiling NewBlueprint before play...
+[2019.03.21-21.22.00:482][518]LogPlayLevel: [PlayLevel] Compiling slotDrag before play...
+[2019.03.21-21.22.01:034][518]LogPlayLevel: PlayLevel: Blueprint regeneration took 628 ms (2 blueprints)
+[2019.03.21-21.22.01:034][518]PIE: New page: PIE session: main (Mar 21, 2019, 7:22:01 AM)
+[2019.03.21-21.22.01:035][518]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_main
+[2019.03.21-21.22.01:049][518]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013375s)
+[2019.03.21-21.22.01:051][518]LogAIModule: Creating AISystem for world main
+[2019.03.21-21.22.01:051][518]LogPlayLevel: PIE: World Init took: (0.002023s)
+[2019.03.21-21.22.01:051][518]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/main.main to /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main (0.015791s)
+[2019.03.21-21.22.01:183][518]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.21-21.22.01:210][518]LogInit: FAudioDevice initialized.
+[2019.03.21-21.22.01:226][518]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.22.01:283][518]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.21-21.22.01:295][518]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main up for play (max tick rate 60) at 2019.03.21-14.22.01
+[2019.03.21-21.22.01:298][518]LogWorld: Bringing up level for play took: 0.012865
+[2019.03.21-21.22.01:335][518]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_main 0.31
+[2019.03.21-21.22.01:337][518]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.22.04:081][558]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.22.04:082][558]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.22.04:149][558]LogSlate: Window 'Game_2D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.21-21.22.04:204][558]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.21-21.22.04:205][558]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.22.04:412][559]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2019.03.21-21.22.05:253][571]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.21-21.22.05:366][571]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.22.05:366][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.21-21.22.05:367][571]PIE: New page: PIE session: main (Mar 21, 2019, 7:22:05 AM)
+[2019.03.21-21.22.05:368][571]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_main
+[2019.03.21-21.22.05:383][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015510s)
+[2019.03.21-21.22.05:385][571]LogAIModule: Creating AISystem for world main
+[2019.03.21-21.22.05:385][571]LogPlayLevel: PIE: World Init took: (0.002016s)
+[2019.03.21-21.22.05:385][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/main.main to /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main (0.017920s)
+[2019.03.21-21.22.05:525][571]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.21-21.22.05:549][571]LogInit: FAudioDevice initialized.
+[2019.03.21-21.22.05:568][571]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.22.05:628][571]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.21-21.22.05:640][571]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main up for play (max tick rate 60) at 2019.03.21-14.22.05
+[2019.03.21-21.22.05:642][571]LogWorld: Bringing up level for play took: 0.011289
+[2019.03.21-21.22.05:673][571]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_main 0.647
+[2019.03.21-21.22.05:673][571]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.22.13:013][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:013][688]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure name_4_A4FC59F640C6CEFD8CACD399DCD6A410". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:013][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:013][688]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure bonusAmount_35_4ED640464A6141D08F7F04B83A534D4F". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:014][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:014][688]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure bonusType_36_BFDD78AC48E55C64504DE89E7693D6F2". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:014][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:014][688]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure amount_29_7B98DAD441FB64D796B4DBB665E089F8". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:015][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:015][688]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_26_543E1B3A40AEADE3F78C83BDDF9F0C67". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:015][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:016][688]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure maxStackSize_24_0699E73744EE58DAA9DB659246E8EFF0". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:016][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:017][688]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure description_22_0184E4934C69B3AEFF7F5695B54E898B". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:018][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:018][688]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure image_21_9DB5CDA24340052BCAF3EB9692285392". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.22.13:019][688]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Set slotContent
+[2019.03.21-21.22.13:811][701]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.22.13:812][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.22.13:882][701]LogSlate: Window 'Game_2D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.21-21.22.13:927][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.21-21.22.13:928][701]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.22.14:174][702]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.03.21-21.22.45:158][182]LogHttp: Warning: 000001B5014F7C40: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.21-21.22.45:158][182]LogHttp: Warning: 000001B5014F7C40: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.21-21.22.45:158][182]LogHttp: Warning: 000001B5014F7C40: libcurl info message cache 1 (Closing connection 5)
+[2019.03.21-21.23.11:696][724]BlueprintLog: New page: Compile slot
+[2019.03.21-21.23.11:910][724]LogBlueprint: Warning: [Compiler slot] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.03.21-21.23.12:612][724]LogBlueprint: Warning: [Compiler slot] [0762.37] Compile of slot successful, but with 1 Warning(s) [in 915 ms] (/Game/2DSideScrollerBP/Widgets/inventory/slot.slot)
+[2019.03.21-21.23.17:112][799]BlueprintLog: New page: Compile slotDrag
+[2019.03.21-21.23.18:714][820]BlueprintLog: New page: Compile slot
+[2019.03.21-21.23.18:899][820]LogBlueprint: Warning: [Compiler slot] Input pin  Image  specifying non-default value no longer exists on node  Create Widget . Please refresh node or reset pin to default value to remove pin.
+[2019.03.21-21.23.18:920][820]LogBlueprint: Warning: [Compiler slot] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.03.21-21.23.19:597][820]LogBlueprint: Warning: [Compiler slot] [0769.36] Compile of slot successful, but with 2 Warning(s) [in 882 ms] (/Game/2DSideScrollerBP/Widgets/inventory/slot.slot)
+[2019.03.21-21.23.35:340][154]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2019.03.21-21.24.02:238][648]LogBlueprint: Error: [Compiler slot] Outer object is required in  Construct Object from Class
+[2019.03.21-21.24.02:275][648]LogBlueprint: Warning: [Compiler slot] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.03.21-21.24.02:321][648]LogBlueprint: Warning: [Compiler slot] [0812.08] Compile of slot failed. 1 Fatal Issue(s) 1 Warning(s) [in 181 ms] (/Game/2DSideScrollerBP/Widgets/inventory/slot.slot)
+[2019.03.21-21.24.02:929][648]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/DragdropItem.SKEL_DragdropItem_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/NewBlueprint.PackageMetaData'
+[2019.03.21-21.24.02:930][648]LogMetaData: Removing '/Game/2DSideScrollerBP/Blueprints/DragdropItem.DragdropItem_C' ref from Metadata '/Game/2DSideScrollerBP/Blueprints/NewBlueprint.PackageMetaData'
+[2019.03.21-21.24.03:008][648]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Saved/DragdropItemFD09417749848048985CB19D021FA9A4.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Content/2DSideScrollerBP/Blueprints/DragdropItem.uasset'
+[2019.03.21-21.24.04:398][648]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Saved/slot042A1685482C83E66335FB9A97D786D1.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Content/2DSideScrollerBP/Widgets/inventory/slot.uasset'
+[2019.03.21-21.24.05:996][670]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/DragdropItem.DragdropItem
+[2019.03.21-21.24.22:717][952]LogMaterial: Display: Missing cached shader map for material Material_1, compiling. 
+[2019.03.21-21.24.22:762][953]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.21-21.24.25:421][  6]LogMaterial: Display: Missing cached shader map for material Material_2, compiling. 
+[2019.03.21-21.24.25:435][  6]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.03.21-21.24.45:269][347]LogHttp: Warning: 000001B573941300: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.21-21.24.45:269][347]LogHttp: Warning: 000001B573941300: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.21-21.24.45:269][347]LogHttp: Warning: 000001B573941300: libcurl info message cache 1 (Closing connection 6)
+[2019.03.21-21.24.54:974][506]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.21-21.24.55:079][506]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.24.55:079][506]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.21-21.24.55:098][506]LogPlayLevel: [PlayLevel] Compiling slotDrag before play...
+[2019.03.21-21.24.55:613][506]LogPlayLevel: [PlayLevel] Compiling slot before play...
+[2019.03.21-21.24.55:727][506]LogBlueprint: Warning: [Compiler slot] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.03.21-21.24.55:778][506]LogBlueprint: Warning: [Compiler slot] [0865.54] Compile of slot successful, but with 1 Warning(s) [in 186 ms] (/Game/2DSideScrollerBP/Widgets/inventory/slot.slot)
+[2019.03.21-21.24.56:436][506]LogPlayLevel: PlayLevel: Blueprint regeneration took 1356 ms (2 blueprints)
+[2019.03.21-21.24.56:437][506]PIE: New page: PIE session: main (Mar 21, 2019, 7:24:56 AM)
+[2019.03.21-21.24.56:438][506]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_main
+[2019.03.21-21.24.56:451][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013407s)
+[2019.03.21-21.24.56:453][506]LogAIModule: Creating AISystem for world main
+[2019.03.21-21.24.56:454][506]LogPlayLevel: PIE: World Init took: (0.002144s)
+[2019.03.21-21.24.56:454][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/main.main to /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main (0.015898s)
+[2019.03.21-21.24.56:583][506]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.21-21.24.56:608][506]LogInit: FAudioDevice initialized.
+[2019.03.21-21.24.56:623][506]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.24.56:683][506]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.21-21.24.56:696][506]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main up for play (max tick rate 60) at 2019.03.21-14.24.56
+[2019.03.21-21.24.56:697][506]LogWorld: Bringing up level for play took: 0.012404
+[2019.03.21-21.24.56:731][506]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_main 1.705
+[2019.03.21-21.24.56:732][506]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.25.02:990][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:991][603]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure name_4_A4FC59F640C6CEFD8CACD399DCD6A410". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:991][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:991][603]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure bonusAmount_35_4ED640464A6141D08F7F04B83A534D4F". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:992][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:992][603]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure bonusType_36_BFDD78AC48E55C64504DE89E7693D6F2". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:992][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:993][603]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure amount_29_7B98DAD441FB64D796B4DBB665E089F8". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:993][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:993][603]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_26_543E1B3A40AEADE3F78C83BDDF9F0C67". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:994][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:994][603]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure maxStackSize_24_0699E73744EE58DAA9DB659246E8EFF0". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:994][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:994][603]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure description_22_0184E4934C69B3AEFF7F5695B54E898B". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:995][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:995][603]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure image_21_9DB5CDA24340052BCAF3EB9692285392". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.25.02:995][603]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Set slotContent
+[2019.03.21-21.25.03:652][614]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.25.03:654][614]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.25.03:723][614]LogSlate: Window 'Game_2D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.21-21.25.03:774][614]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.21-21.25.03:774][614]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.25.04:034][615]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2019.03.21-21.25.05:907][658]LogEditorTransaction: Undo Move Node
+[2019.03.21-21.26.08:212][371]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.21-21.26.08:318][371]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.26.08:318][371]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.21-21.26.08:339][371]LogPlayLevel: [PlayLevel] Compiling slotDrag before play...
+[2019.03.21-21.26.08:854][371]LogPlayLevel: [PlayLevel] Compiling slot before play...
+[2019.03.21-21.26.08:963][371]LogBlueprint: Warning: [Compiler slot] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.03.21-21.26.09:018][371]LogBlueprint: Warning: [Compiler slot] [0938.78] Compile of slot successful, but with 1 Warning(s) [in 186 ms] (/Game/2DSideScrollerBP/Widgets/inventory/slot.slot)
+[2019.03.21-21.26.09:716][371]LogPlayLevel: PlayLevel: Blueprint regeneration took 1397 ms (2 blueprints)
+[2019.03.21-21.26.09:717][371]PIE: New page: PIE session: main (Mar 21, 2019, 7:26:09 AM)
+[2019.03.21-21.26.09:718][371]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_main
+[2019.03.21-21.26.09:732][371]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014519s)
+[2019.03.21-21.26.09:734][371]LogAIModule: Creating AISystem for world main
+[2019.03.21-21.26.09:734][371]LogPlayLevel: PIE: World Init took: (0.001820s)
+[2019.03.21-21.26.09:734][371]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/main.main to /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main (0.016676s)
+[2019.03.21-21.26.09:876][371]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.21-21.26.09:900][371]LogInit: FAudioDevice initialized.
+[2019.03.21-21.26.09:916][371]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.26.09:971][371]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.21-21.26.09:982][371]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main up for play (max tick rate 60) at 2019.03.21-14.26.09
+[2019.03.21-21.26.09:984][371]LogWorld: Bringing up level for play took: 0.011137
+[2019.03.21-21.26.10:013][371]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_main 0.988
+[2019.03.21-21.26.10:014][371]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.26.19:211][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:211][522]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure name_4_A4FC59F640C6CEFD8CACD399DCD6A410". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:211][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:212][522]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure bonusAmount_35_4ED640464A6141D08F7F04B83A534D4F". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:212][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:212][522]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure bonusType_36_BFDD78AC48E55C64504DE89E7693D6F2". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:212][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:213][522]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure amount_29_7B98DAD441FB64D796B4DBB665E089F8". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:213][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:213][522]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_26_543E1B3A40AEADE3F78C83BDDF9F0C67". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:213][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:214][522]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure maxStackSize_24_0699E73744EE58DAA9DB659246E8EFF0". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:214][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:214][522]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure description_22_0184E4934C69B3AEFF7F5695B54E898B". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:215][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:215][522]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure image_21_9DB5CDA24340052BCAF3EB9692285392". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.26.19:215][522]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Set slotContent
+[2019.03.21-21.26.20:041][536]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.26.20:043][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.26.20:113][536]LogSlate: Window 'Game_2D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.21-21.26.20:163][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.21-21.26.20:164][536]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.26.20:416][537]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2019.03.21-21.26.45:346][953]LogHttp: Warning: 000001B5974CE980: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.21-21.26.45:346][953]LogHttp: Warning: 000001B5974CE980: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.21-21.26.45:346][953]LogHttp: Warning: 000001B5974CE980: libcurl info message cache 1 (Closing connection 7)
+[2019.03.21-21.27.50:211][225]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.21-21.27.50:317][225]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.27.50:318][225]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.21-21.27.50:332][225]LogPlayLevel: [PlayLevel] Compiling slotDrag before play...
+[2019.03.21-21.27.50:862][225]LogPlayLevel: [PlayLevel] Compiling slot before play...
+[2019.03.21-21.27.50:981][225]LogBlueprint: Warning: [Compiler slot] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.03.21-21.27.51:032][225]LogBlueprint: Warning: [Compiler slot] [1040.80] Compile of slot successful, but with 1 Warning(s) [in 192 ms] (/Game/2DSideScrollerBP/Widgets/inventory/slot.slot)
+[2019.03.21-21.27.51:719][225]LogPlayLevel: PlayLevel: Blueprint regeneration took 1401 ms (2 blueprints)
+[2019.03.21-21.27.51:719][225]PIE: New page: PIE session: main (Mar 21, 2019, 7:27:51 AM)
+[2019.03.21-21.27.51:720][225]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_main
+[2019.03.21-21.27.51:734][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013955s)
+[2019.03.21-21.27.51:736][225]LogAIModule: Creating AISystem for world main
+[2019.03.21-21.27.51:736][225]LogPlayLevel: PIE: World Init took: (0.001729s)
+[2019.03.21-21.27.51:736][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/main.main to /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main (0.016066s)
+[2019.03.21-21.27.51:871][225]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.21-21.27.51:895][225]LogInit: FAudioDevice initialized.
+[2019.03.21-21.27.51:911][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.27.51:966][225]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.21-21.27.51:977][225]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main up for play (max tick rate 60) at 2019.03.21-14.27.51
+[2019.03.21-21.27.51:979][225]LogWorld: Bringing up level for play took: 0.011040
+[2019.03.21-21.27.52:011][225]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_main 0.985
+[2019.03.21-21.27.52:012][225]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.27.57:837][313]LogBlueprintUserMessages: [slot3] DragdropItem_C
+[2019.03.21-21.27.57:838][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:838][313]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure name_4_A4FC59F640C6CEFD8CACD399DCD6A410". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:838][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:839][313]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure bonusAmount_35_4ED640464A6141D08F7F04B83A534D4F". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:839][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:839][313]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure bonusType_36_BFDD78AC48E55C64504DE89E7693D6F2". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:839][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:840][313]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure amount_29_7B98DAD441FB64D796B4DBB665E089F8". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:840][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:840][313]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure type_26_543E1B3A40AEADE3F78C83BDDF9F0C67". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:841][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:841][313]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure maxStackSize_24_0699E73744EE58DAA9DB659246E8EFF0". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:841][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:842][313]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure description_22_0184E4934C69B3AEFF7F5695B54E898B". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:842][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:842][313]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure image_21_9DB5CDA24340052BCAF3EB9692285392". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Branch
+[2019.03.21-21.27.57:843][313]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property K2Node_DynamicCast_AsSlot". Blueprint:  slot Function:  On Drop Graph:  OnDrop Node:  Set slotContent
+[2019.03.21-21.27.59:810][345]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.27.59:812][345]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.27.59:883][345]LogSlate: Window 'Game_2D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.21-21.27.59:936][345]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.21-21.27.59:936][345]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.28.00:211][346]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2019.03.21-21.28.45:408][230]LogHttp: Warning: 000001B5A126FEC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.21-21.28.45:408][230]LogHttp: Warning: 000001B5A126FEC0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.21-21.28.45:408][230]LogHttp: Warning: 000001B5A126FEC0: libcurl info message cache 1 (Closing connection 8)
+[2019.03.21-21.30.45:501][485]LogHttp: Warning: 000001B596445F80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.21-21.30.45:501][485]LogHttp: Warning: 000001B596445F80: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.21-21.30.45:501][485]LogHttp: Warning: 000001B596445F80: libcurl info message cache 1 (Closing connection 9)
+[2019.03.21-21.30.54:267][638]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.21-21.30.54:375][638]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.30.54:375][638]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.21-21.30.54:475][638]LogPlayLevel: [PlayLevel] Compiling slot before play...
+[2019.03.21-21.30.54:594][638]LogBlueprint: Warning: [Compiler slot] Event Reply  Return Value  should not be empty.  Return a reply such as Handled or Unhandled.
+[2019.03.21-21.30.54:647][638]LogBlueprint: Warning: [Compiler slot] [1224.41] Compile of slot successful, but with 1 Warning(s) [in 194 ms] (/Game/2DSideScrollerBP/Widgets/inventory/slot.slot)
+[2019.03.21-21.30.55:522][638]LogPlayLevel: PlayLevel: Blueprint regeneration took 1147 ms (1 blueprints)
+[2019.03.21-21.30.55:523][638]PIE: New page: PIE session: main (Mar 21, 2019, 7:30:55 AM)
+[2019.03.21-21.30.55:524][638]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_main
+[2019.03.21-21.30.55:541][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017613s)
+[2019.03.21-21.30.55:543][638]LogAIModule: Creating AISystem for world main
+[2019.03.21-21.30.55:544][638]LogPlayLevel: PIE: World Init took: (0.002095s)
+[2019.03.21-21.30.55:544][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/main.main to /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main (0.020070s)
+[2019.03.21-21.30.55:671][638]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.21-21.30.55:698][638]LogInit: FAudioDevice initialized.
+[2019.03.21-21.30.55:714][638]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.30.55:774][638]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.21-21.30.55:786][638]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main up for play (max tick rate 60) at 2019.03.21-14.30.55
+[2019.03.21-21.30.55:788][638]LogWorld: Bringing up level for play took: 0.012752
+[2019.03.21-21.30.55:825][638]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_main 0.8
+[2019.03.21-21.30.55:826][638]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.31.28:996][181]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.31.28:998][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.31.29:071][181]LogSlate: Window 'Game_2D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.21-21.31.29:123][181]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.21-21.31.29:124][181]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.31.29:351][182]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2019.03.21-21.32.36:990][291]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/main' took 0.124
+[2019.03.21-21.32.36:998][291]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Widgets/inventory/slot] ([1] browsable assets)...
+[2019.03.21-21.32.36:998][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Widgets/inventory/slot]
+[2019.03.21-21.32.37:474][291]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Saved/slot_Auto19CCF873F4FDD99F23237F8B8E6F8ECA2.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Saved/Autosaves/Game/2DSideScrollerBP/Widgets/inventory/slot_Auto1.uasset'
+[2019.03.21-21.32.37:486][291]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Widgets/inventory/slotDrag] ([1] browsable assets)...
+[2019.03.21-21.32.37:486][291]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Widgets/inventory/slotDrag]
+[2019.03.21-21.32.37:739][291]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Saved/slotDrag_Auto1061575AF46B7DB50D08B83B2D56F80B9.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Saved/Autosaves/Game/2DSideScrollerBP/Widgets/inventory/slotDrag_Auto1.uasset'
+[2019.03.21-21.32.37:747][291]LogFileHelpers: Auto-saving content packages took 0.755
+[2019.03.21-21.32.45:565][410]LogHttp: Warning: 000001B563CA65C0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2019.03.21-21.32.45:566][410]LogHttp: Warning: 000001B563CA65C0: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2019.03.21-21.32.45:566][410]LogHttp: Warning: 000001B563CA65C0: libcurl info message cache 1 (Closing connection 10)
+[2019.03.21-21.32.52:932][529]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.21-21.32.53:033][529]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.32.53:033][529]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.03.21-21.32.53:034][529]PIE: New page: PIE session: main (Mar 21, 2019, 7:32:53 AM)
+[2019.03.21-21.32.53:036][529]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_main
+[2019.03.21-21.32.53:049][529]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013358s)
+[2019.03.21-21.32.53:051][529]LogAIModule: Creating AISystem for world main
+[2019.03.21-21.32.53:052][529]LogPlayLevel: PIE: World Init took: (0.002232s)
+[2019.03.21-21.32.53:052][529]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/main.main to /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main (0.016112s)
+[2019.03.21-21.32.53:187][529]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.21-21.32.53:214][529]LogInit: FAudioDevice initialized.
+[2019.03.21-21.32.53:229][529]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.32.53:295][529]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.21-21.32.53:308][529]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main up for play (max tick rate 60) at 2019.03.21-14.32.53
+[2019.03.21-21.32.53:309][529]LogWorld: Bringing up level for play took: 0.010684
+[2019.03.21-21.32.53:343][529]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_main 0.318
+[2019.03.21-21.32.53:344][529]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.32.56:366][575]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.32.56:367][575]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.32.56:441][575]LogSlate: Window 'Game_2D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.21-21.32.56:491][575]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.21-21.32.56:492][575]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.32.56:733][576]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.03.21-21.33.17:497][923]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.03.21-21.33.17:602][923]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.33.17:603][923]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.03.21-21.33.18:184][923]LogPlayLevel: [PlayLevel] Compiling Player before play...
+[2019.03.21-21.33.19:781][923]LogPlayLevel: PlayLevel: Blueprint regeneration took 2177 ms (1 blueprints)
+[2019.03.21-21.33.19:781][923]PIE: New page: PIE session: main (Mar 21, 2019, 7:33:19 AM)
+[2019.03.21-21.33.19:782][923]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_main
+[2019.03.21-21.33.19:798][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015302s)
+[2019.03.21-21.33.19:799][923]LogAIModule: Creating AISystem for world main
+[2019.03.21-21.33.19:800][923]LogPlayLevel: PIE: World Init took: (0.002011s)
+[2019.03.21-21.33.19:800][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/main.main to /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main (0.017671s)
+[2019.03.21-21.33.19:933][923]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.03.21-21.33.19:962][923]LogInit: FAudioDevice initialized.
+[2019.03.21-21.33.19:975][923]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.33.20:040][923]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2019.03.21-21.33.20:053][923]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_main.main up for play (max tick rate 60) at 2019.03.21-14.33.20
+[2019.03.21-21.33.20:055][923]LogWorld: Bringing up level for play took: 0.012917
+[2019.03.21-21.33.20:091][923]PIE: Play in editor start time for /Game/2DSideScrollerBP/Maps/UEDPIE_0_main 3.066
+[2019.03.21-21.33.20:092][923]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.33.35:946][153]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.33.35:947][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.03.21-21.33.36:021][153]LogSlate: Window 'Game_2D Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.03.21-21.33.36:068][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.03.21-21.33.36:068][153]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel' has LevelScriptBlueprint '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main' with GeneratedClass '/Game/2DSideScrollerBP/Maps/main.main_C' with ClassGeneratedBy '/Game/2DSideScrollerBP/Maps/main.main:PersistentLevel.main'
+[2019.03.21-21.33.36:290][154]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.03.21-21.33.40:260][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/2DSideScrollerBP/Blueprints/Player" FILE="../../../../../../Users/ayden/Documents/Unreal Projects/Game/Content/2DSideScrollerBP/Blueprints/Player.uasset" SILENT=true
+[2019.03.21-21.33.41:617][207]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Saved/PlayerF50714D443936459E8A3C498B9010843.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Content/2DSideScrollerBP/Blueprints/Player.uasset'
+[2019.03.21-21.33.43:675][226]LogSlate: Window 'Save Content' being destroyed
+[2019.03.21-21.33.44:188][226]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Saved/slotF705A57B46A6797C80E3EEAADE6D119C.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Content/2DSideScrollerBP/Widgets/inventory/slot.uasset'
+[2019.03.21-21.33.44:462][226]LogSavePackage: Moving '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Saved/slotDrag2D0E7A884479D495807B9DB416B33F7B.tmp' to '../../../../../../Users/ayden/Documents/Unreal Projects/Game/Content/2DSideScrollerBP/Widgets/inventory/slotDrag.uasset'
+[2019.03.21-21.33.45:577][226]LogSlate: Window 'DragdropItem' being destroyed
+[2019.03.21-21.33.45:678][226]LogSlate: Window 'Game_2D - Unreal Editor' being destroyed
+[2019.03.21-21.33.45:679][226]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.03.21-21.33.46:167][227]Cmd: QUIT_EDITOR
+[2019.03.21-21.33.46:375][227]LogExit: Preparing to exit.
+[2019.03.21-21.33.47:858][227]LogExit: Editor shut down
+[2019.03.21-21.33.47:859][227]LogExit: Transaction tracking system shut down
+[2019.03.21-21.33.48:991][227]LogExit: Object subsystem successfully closed.
+[2019.03.21-21.33.49:080][227]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.03.21-21.33.49:102][227]LogD3D11RHI: Shutdown
+[2019.03.21-21.33.49:102][227]LogD3D11RHI: CleanupD3DDevice
+[2019.03.21-21.33.49:125][227]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.03.21-21.33.49:462][227]LogModuleManager: Shutting down and abandoning module StatsViewer (618)
+[2019.03.21-21.33.49:463][227]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (616)
+[2019.03.21-21.33.49:463][227]LogModuleManager: Shutting down and abandoning module Voice (614)
+[2019.03.21-21.33.49:463][227]LogModuleManager: Shutting down and abandoning module SequencerWidgets (612)
+[2019.03.21-21.33.49:463][227]LogModuleManager: Shutting down and abandoning module BlueprintGraph (610)
+[2019.03.21-21.33.49:463][227]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (608)
+[2019.03.21-21.33.49:463][227]LogModuleManager: Shutting down and abandoning module SceneOutliner (606)
+[2019.03.21-21.33.49:463][227]LogModuleManager: Shutting down and abandoning module AddContentDialog (604)
+[2019.03.21-21.33.49:465][227]LogModuleManager: Shutting down and abandoning module WidgetCarousel (603)
+[2019.03.21-21.33.49:465][227]LogModuleManager: Shutting down and abandoning module EditorWidgets (600)
+[2019.03.21-21.33.49:465][227]LogModuleManager: Shutting down and abandoning module CollectionManager (598)
+[2019.03.21-21.33.49:466][227]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2019.03.21-21.33.49:466][227]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2019.03.21-21.33.49:469][227]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2019.03.21-21.33.49:469][227]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2019.03.21-21.33.49:469][227]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2019.03.21-21.33.49:469][227]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2019.03.21-21.33.49:469][227]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2019.03.21-21.33.49:469][227]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2019.03.21-21.33.49:469][227]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2019.03.21-21.33.49:469][227]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2019.03.21-21.33.49:469][227]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2019.03.21-21.33.49:469][227]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2019.03.21-21.33.49:469][227]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2019.03.21-21.33.49:470][227]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2019.03.21-21.33.49:470][227]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2019.03.21-21.33.49:470][227]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2019.03.21-21.33.49:470][227]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2019.03.21-21.33.49:472][227]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2019.03.21-21.33.49:472][227]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2019.03.21-21.33.49:472][227]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2019.03.21-21.33.49:472][227]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2019.03.21-21.33.49:472][227]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2019.03.21-21.33.49:472][227]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2019.03.21-21.33.49:472][227]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2019.03.21-21.33.49:472][227]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2019.03.21-21.33.49:472][227]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2019.03.21-21.33.49:472][227]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2019.03.21-21.33.49:472][227]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2019.03.21-21.33.49:473][227]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2019.03.21-21.33.49:473][227]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2019.03.21-21.33.49:473][227]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2019.03.21-21.33.49:473][227]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2019.03.21-21.33.49:473][227]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2019.03.21-21.33.49:473][227]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2019.03.21-21.33.49:473][227]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2019.03.21-21.33.49:473][227]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2019.03.21-21.33.49:474][227]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2019.03.21-21.33.49:477][227]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2019.03.21-21.33.49:477][227]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2019.03.21-21.33.49:478][227]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2019.03.21-21.33.49:478][227]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2019.03.21-21.33.49:479][227]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2019.03.21-21.33.49:479][227]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2019.03.21-21.33.49:479][227]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2019.03.21-21.33.49:479][227]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2019.03.21-21.33.49:854][227]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
